@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#214dff" />
+    <meta name="description" content="Uma seleção de futebol, acontecimentos do mundo e cultura geek. Resumos, fontes e uma agenda do que vem a seguir." />
+    <title>Radar — Notícias e agenda</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23214dff'/%3E%3Cpath d='M10 25V9h6a5 5 0 0 1 0 10h-2v6m0-10h2' fill='none' stroke='white' stroke-width='3'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="module" src="./app.js"></script>
+  </head>
+  <body>
+    <a class="pular" href="#conteudo">Pular para as notícias</a>
+    <header class="cabecalho">
+      <a class="marca" href="#inicio" aria-label="Radar, início">radar<span>.</span></a>
+      <span class="edicao" id="data-edicao">Notícias & agenda</span>
+      <button class="botao-compartilhar" id="compartilhar" type="button">Compartilhar <span aria-hidden="true">↗</span></button>
+    </header>
+
+    <div class="estrutura" id="inicio">
+      <nav class="navegacao" aria-label="Seções">
+        <p class="rotulo-menu">SEU RADAR</p>
+        <a href="#futebol"><span class="icone-nav" aria-hidden="true">01</span> Futebol <span class="contagem" data-count="futebol">—</span></a>
+        <a href="#trending"><span class="icone-nav" aria-hidden="true">02</span> Trending <span class="contagem" data-count="trending">—</span></a>
+        <a href="#geek"><span class="icone-nav" aria-hidden="true">03</span> Geek <span class="contagem" data-count="geek">—</span></a>
+        <a href="#agenda"><span class="icone-nav" aria-hidden="true">04</span> Calendário</a>
+        <a href="#musica"><span class="icone-nav" aria-hidden="true">05</span> Música <span class="em-breve">Em breve</span></a>
+        <div class="nota-menu"><span class="selo-br">BR</span><p>O Brasil faz parte de cada seleção.</p></div>
+      </nav>
+
+      <main id="conteudo">
+        <div class="abertura">
+          <div><p class="sobretitulo">A EDIÇÃO DO DIA</p><h1>O que está acontecendo<span>?</span></h1></div>
+          <p class="resumo-edicao" id="resumo-edicao">Futebol, mundo e cultura geek.<br />As fontes, a um clique.</p>
+        </div>
+        <p class="aviso-edicao" id="aviso-edicao" hidden></p>
+        <div id="estado-carregamento" role="status">Carregando a edição…</div>
+        <noscript><p>Ative o JavaScript para ler as matérias e consultar a agenda deste painel.</p></noscript>
+
+        <div class="painel">
+          <div id="secoes-noticias"></div>
+          <aside id="agenda" aria-labelledby="titulo-agenda">
+            <div class="titulo-agenda"><p class="sobretitulo">PROGRAME-SE</p><h2 id="titulo-agenda">No calendário</h2><p>As próximas datas para acompanhar.</p></div>
+            <div id="calendario"></div>
+            <div class="agenda-cabecalho"><h3 id="titulo-eventos">Próximos acontecimentos</h3><button id="limpar-data" class="botao-texto" type="button" hidden>Ver todos</button></div>
+            <div id="proximos-eventos" aria-live="polite"></div>
+            <p class="nota-agenda">Horários de Brasília, quando informados. Consulte a fonte antes do evento.</p>
+          </aside>
+        </div>
+
+        <section id="musica" class="musica" aria-labelledby="titulo-musica">
+          <div><p class="sobretitulo">A PRÓXIMA SEÇÃO</p><h2 id="titulo-musica">Música, do seu jeito.</h2></div>
+          <div><p>Artistas e bandas ainda serão definidos.</p><p class="secundario">O espaço para shows, festivais e lançamentos já está reservado.</p></div>
+          <span class="etiqueta-musica">EM BREVE</span>
+        </section>
+        <footer><span class="marca marca-rodape">radar<span>.</span></span><p>Resumos originais. Matérias completas nos sites de origem.</p><a href="#inicio">Voltar ao início ↑</a></footer>
+      </main>
+    </div>
+    <p id="retorno-compartilhar" class="toast" role="status" hidden></p>
+  </body>
+</html>
