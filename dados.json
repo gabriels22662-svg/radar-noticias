@@ -1,8 +1,21 @@
 {
-  "edicao": "2026-09-21",
-  "atualizadaEm": "2026-09-21T22:59:06.672Z",
+  "edicao": "2026-09-22",
+  "atualizadaEm": "2026-09-22T11:17:34.534Z",
   "criterioTrending": "Seleção editorial de acontecimentos recentes; não é um ranking medido de redes sociais.",
   "noticias": [
+    {
+      "id": "palmeiras-data-fifa",
+      "secao": "futebol",
+      "assunto": "Brasileirão",
+      "brasil": true,
+      "publicadaEm": "2026-09-22",
+      "titulo": "Palmeiras usa pausa da Data Fifa para preparar a reta final",
+      "resumo": "O clube quer recuperar o elenco para disputar o Brasileirão e as semifinais da Libertadores e da Copa do Brasil. A projeção de até 16 partidas depende de avançar nas duas competições eliminatórias.",
+      "fonte": "ge",
+      "idioma": "PT",
+      "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/09/22/recuperar-as-pernas-palmeiras-cria-mantra-de-16-finais-e-conta-com-data-fifa-para-ganhar-folego.ghtml",
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
+    },
     {
       "id": "fla-bragantino",
       "secao": "futebol",
@@ -14,7 +27,7 @@
       "fonte": "UOL Esporte",
       "idioma": "PT",
       "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/20/flamengo-x-bragantino-como-foi-o-jogo-28-rodada-brasileirao.ghtm",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
       "id": "bahia-athletico",
@@ -27,98 +40,86 @@
       "fonte": "UOL Esporte",
       "idioma": "PT",
       "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/20/athletico-x-bahia.ghtm",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
-      "id": "raphinha-sevilla",
+      "id": "kane-cem-gols",
       "secao": "futebol",
-      "assunto": "La Liga",
-      "brasil": true,
-      "publicadaEm": "2026-09-19",
-      "titulo": "Três de Raphinha: Barcelona vira sobre o Sevilla",
-      "resumo": "O brasileiro marcou os três gols da vitória por 3 a 1. O Barcelona manteve a campanha de vitórias na liga espanhola, conforme o relato oficial do clube.",
-      "fonte": "FC Barcelona",
-      "idioma": "EN",
-      "url": "https://www.fcbarcelona.com/en/news/4578857/sevilla-1-3-fc-barcelona-raphinha-does-it-again",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
-    },
-    {
-      "id": "city-sunderland",
-      "secao": "futebol",
-      "assunto": "Premier League",
+      "assunto": "Bundesliga",
       "brasil": false,
-      "publicadaEm": "2026-09-20",
-      "titulo": "Manchester City supera o Sunderland em jogo de oito gols",
-      "resumo": "O City venceu por 5 a 3 no Etihad Stadium. O relato do clube destaca a estreia de Enzo Fernández nas redes pela equipe e a participação de Haaland no placar.",
-      "fonte": "Manchester City",
+      "publicadaEm": "2026-09-21",
+      "titulo": "Kane chega a 100 gols na Bundesliga em 98 jogos",
+      "resumo": "O atacante do Bayern atingiu a marca na vitória por 7 a 0 sobre o Union Berlin e terminou a partida com 101 gols na competição. Segundo a liga, ninguém havia alcançado o centésimo gol tão rapidamente.",
+      "fonte": "Bundesliga",
       "idioma": "EN",
-      "url": "https://www.mancity.com/news/mens/city-v-sunderland-match-report-20-september-63925504",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "url": "https://www.bundesliga.com/en/bundesliga/news/how-has-harry-kane-scored-his-first-100-goals-bayern-munich-39302",
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
-      "id": "psg-marseille",
+      "id": "roma-inter",
       "secao": "futebol",
-      "assunto": "Ligue 1",
+      "assunto": "Serie A",
       "brasil": false,
-      "publicadaEm": "2026-09-20",
-      "titulo": "PSG vence o clássico com o Marseille fora de casa",
-      "resumo": "O Paris Saint-Germain ganhou por 2 a 1 no Vélodrome, pela quinta rodada. O portal francês Les Titis du PSG detalha o confronto e a atuação dos parisienses.",
-      "fonte": "Les Titis du PSG",
-      "idioma": "FR",
-      "url": "https://www.lestitisdupsg.fr/a-la-une/%F0%9F%93%9D5j-l1-le-psg-domine-encore-et-toujours-lom-1-2/",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "publicadaEm": "2026-09-21",
+      "titulo": "Inter empata com a Roma",
+      "resumo": "Lautaro Martínez marcou duas vezes no segundo tempo e garantiu o 2 a 2 pela Serie A.",
+      "fonte": "The Guardian",
+      "idioma": "EN",
+      "url": "https://www.theguardian.com/football/2026/sep/21/serie-a-inter-roma-lautaro-martinez-gian-piero-gasperini",
+      "atualizadaEm": "2026-09-21",
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
-      "id": "onu-semana",
+      "id": "onu-multilateralismo",
       "secao": "trending",
       "assunto": "Diplomacia",
-      "brasil": false,
-      "publicadaEm": null,
-      "titulo": "Semana da ONU abre espaço para debates sobre cooperação mundial",
-      "resumo": "A semana de alto nível da Assembleia-Geral acontece em Nova York. O debate geral começa em 22 de setembro; a agenda europeia inclui reuniões sobre multilateralismo e reformas na organização.",
+      "brasil": true,
+      "publicadaEm": "2026-09-21",
+      "titulo": "Brasil participa de iniciativa por cooperação internacional na semana da ONU",
+      "resumo": "Brasil, União Europeia e outros parceiros lançaram uma declaração em defesa da cooperação entre países. O documento propõe fortalecer a ONU e coordenar respostas a desafios como clima, desigualdade e inteligência artificial.",
       "fonte": "Conselho Europeu",
       "idioma": "EN",
-      "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/09/21-25/",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/21/declaration-of-the-partners-for-multilateralism-p4m-summit-21-september-2026/",
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
-      "id": "primavera-brasil",
+      "id": "chuvas-sp-22",
       "secao": "trending",
       "assunto": "Clima",
       "brasil": true,
       "publicadaEm": "2026-09-21",
-      "titulo": "Primavera em SP deve alternar calor e temporais, prevê Defesa Civil",
-      "resumo": "A estação começa em 22 de setembro. A previsão para São Paulo indica influência do El Niño, com chuvas distribuídas de forma irregular e possibilidade de períodos de calor intenso.",
+      "titulo": "Defesa Civil prevê chuvas fortes em SP nesta terça, 22 de setembro",
+      "resumo": "A previsão aponta chuva, raios e rajadas de vento, com possibilidade de granizo isolado. A agência estadual destaca risco de alagamentos em áreas vulneráveis e maiores acumulados na região metropolitana e em partes do litoral.",
       "fonte": "Agência SP",
       "idioma": "PT",
-      "url": "https://www.agenciasp.sp.gov.br/defesa-civil-preve-primavera-marcada-por-calor-intenso-e-temporais-frequentes-em-sao-paulo/",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "url": "https://www.agenciasp.sp.gov.br/previsao-do-tempo-para-terca-feira-22-em-sp-tempo-bastante-instavel/",
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
-      "id": "eleicoes-servico",
+      "id": "tse-playlist",
       "secao": "trending",
       "assunto": "Brasil",
       "brasil": true,
       "publicadaEm": "2026-09-21",
-      "titulo": "TSE explica como justificar a ausência nas eleições",
-      "resumo": "A orientação publicada pelo tribunal reúne os canais para apresentar a justificativa e os prazos após cada turno. A data do primeiro turno é 4 de outubro.",
+      "titulo": "TSE reúne vídeos sobre serviços e preparação para as eleições",
+      "resumo": "A playlist oficial explica consulta à situação eleitoral, ordem de votação, uso do e-Título e acessibilidade. A reportagem publicada na noite de 21 de setembro apresenta os materiais para esclarecer dúvidas antes e durante a votação.",
       "fonte": "Tribunal Superior Eleitoral",
       "idioma": "PT",
-      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/faltam-13-dias-saiba-como-justificar-a-ausencia-nas-eleicoes-2026",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/playlist-reune-orientacoes-para-o-eleitorado-sobre-as-eleicoes-2026",
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
-      "id": "jogos-asiaticos",
+      "id": "xi-visita-eua",
       "secao": "trending",
       "assunto": "Mundo",
       "brasil": false,
-      "publicadaEm": "2026-09-19",
-      "titulo": "Jogos Asiáticos começam no Japão após dificuldades de organização",
-      "resumo": "Nagoya recebeu a cerimônia de abertura. A Reuters relata reclamações sobre hospedagem e transporte na preparação do evento e a resposta dos organizadores.",
+      "publicadaEm": "2026-09-21",
+      "titulo": "China anuncia visita de Xi Jinping aos Estados Unidos de 23 a 25 de setembro",
+      "resumo": "Segundo o Ministério das Relações Exteriores chinês, Xi encontrará Donald Trump para discutir relações bilaterais e questões internacionais. A Reuters relata o anúncio; os resultados das conversas ainda não são conhecidos.",
       "fonte": "Reuters",
       "idioma": "EN",
-      "url": "https://www.reuters.com/sports/asian-games-open-nagoya-after-troubled-buildup-2026-09-19/",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "url": "https://www.reuters.com/world/china/chinas-xi-visit-us-september-23-25-2026-09-21/",
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
       "id": "lake-powell",
@@ -131,7 +132,21 @@
       "fonte": "NASA Earth Observatory",
       "idioma": "EN",
       "url": "https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
+    },
+    {
+      "id": "one-piece-ilha-espiral",
+      "secao": "geek",
+      "assunto": "Anime · Cinema",
+      "brasil": true,
+      "publicadaEm": null,
+      "titulo": "One Piece: filme de 2001 ganha estreia dublada no Brasil",
+      "resumo": "O filme Aventura na Ilha Espiral terá sua primeira exibição dublada nos cinemas brasileiros em 22 de outubro. Reportagem revisada em 21 de setembro apresenta o trailer em português divulgado pela Paris Filmes.",
+      "fonte": "Omelete",
+      "idioma": "PT",
+      "url": "https://www.omelete.com.br/mangas-animes/one-piece-aventura-na-ilha-espiral-poster-trailer",
+      "atualizadaEm": "2026-09-21",
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
       "id": "bgs-2026",
@@ -144,47 +159,33 @@
       "fonte": "Brasil Game Show",
       "idioma": "PT",
       "url": "https://www.brasilgameshow.com.br/",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
-      "id": "ccxp-one-piece",
-      "secao": "geek",
-      "assunto": "Anime · Evento",
-      "brasil": true,
-      "publicadaEm": "2026-09-10",
-      "titulo": "One Piece terá experiência imersiva na CCXP26",
-      "resumo": "A CCXP e a Toei Animation anunciaram o Grand Showcase dedicado à obra. A atração está prevista para a edição de 3 a 6 de dezembro, em São Paulo.",
-      "fonte": "Omelete",
-      "idioma": "PT",
-      "url": "https://www.omelete.com.br/mangas-animes/ccxp26-experiencia-one-piece",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
-    },
-    {
-      "id": "crunchyroll-temporada",
+      "id": "alya-segunda-temporada",
       "secao": "geek",
       "assunto": "Animes",
       "brasil": false,
-      "publicadaEm": "2026-09-15",
-      "atualizadaEm": "2026-09-19",
-      "titulo": "Crunchyroll atualiza a seleção de animes da próxima temporada",
-      "resumo": "A plataforma divulgou a lista de estreias do outono do hemisfério norte. Uma atualização de 19 de setembro incluiu o arco Nikko Kegon Falls de TOUGEN ANKI; datas e regiões devem ser conferidas por título.",
-      "fonte": "Crunchyroll News",
-      "idioma": "EN",
-      "url": "https://www.crunchyroll.com/news/seasonal-lineup/2026/9/15/fall-anime-2026-crunchyroll",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "publicadaEm": "2026-09-21",
+      "titulo": "Alya ganha trailer da segunda temporada, prevista para 2027",
+      "resumo": "A nova prévia de Alya Sometimes Hides Her Feelings in Russian acompanha mudanças na direção e no roteiro. Após o adiamento, a continuação segue prevista para 2027, ainda sem dia ou mês de estreia confirmado.",
+      "fonte": "Omelete",
+      "idioma": "PT",
+      "url": "https://www.omelete.com.br/mangas-animes/alya-sometimes-hides-her-feelings-in-russian-2-temporada-trailer-previsao-de-estreia",
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
-      "id": "shape-dreams",
+      "id": "control-resonant",
       "secao": "geek",
       "assunto": "Jogos",
       "brasil": false,
-      "publicadaEm": "2026-09-17",
-      "titulo": "Shape of Dreams chega ao PS5 junto de atualização de aniversário",
-      "resumo": "O lançamento do roguelite cooperativo acompanha The Starless Path. No blog da PlayStation, o estúdio apresenta as novidades da versão e da atualização.",
+      "publicadaEm": "2026-09-18",
+      "titulo": "Control Resonant tem lançamento no PS5 marcado para 24 de setembro",
+      "resumo": "Uma prévia publicada no blog da PlayStation apresenta a continuação da Remedy, agora ambientada em Manhattan. O texto destaca mudanças na exploração e nos poderes do protagonista, mantendo o clima de ficção científica da série.",
       "fonte": "PlayStation Blog",
       "idioma": "EN",
-      "url": "https://blog.playstation.com/2026/09/17/co-op-roguelite-shape-of-dreams-launches-today-on-ps5/",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "url": "https://blog.playstation.com/2026/09/18/control-resonant-how-remedy-is-going-bigger-and-weirder-with-its-paranatural-horror-sequel-on-september-24/",
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
       "id": "netflix-semana",
@@ -197,7 +198,7 @@
       "fonte": "Netflix Tudum",
       "idioma": "EN",
       "url": "https://www.netflix.com/tudum/articles/what-to-watch-on-netflix-september-18-2026",
-      "verificadaEm": "2026-09-21T22:59:06.672Z"
+      "verificadaEm": "2026-09-22T11:17:34.534Z"
     }
   ],
   "eventos": [
@@ -212,7 +213,7 @@
       "local": "Nova York · EUA",
       "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/09/21-25/",
       "fonte": "Conselho Europeu",
-      "confirmadoEm": "2026-09-21T22:59:06.672Z"
+      "confirmadoEm": "2026-09-22T11:17:34.534Z"
     },
     {
       "id": "primavera",
@@ -223,9 +224,37 @@
       "fim": "2026-09-22",
       "horario": "21h05",
       "local": "Hemisfério Sul",
-      "url": "https://ciram.epagri.sc.gov.br/index.php/2026/09/21/previsao-5-dias/",
+      "url": "https://ciram.epagri.sc.gov.br/index.php/2026/09/22/previsao-5-dias/",
       "fonte": "Epagri/Ciram",
-      "confirmadoEm": "2026-09-21T22:59:06.672Z"
+      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+    },
+    {
+      "id": "xi-eua",
+      "titulo": "Visita de Xi Jinping aos Estados Unidos",
+      "secao": "Trending",
+      "brasil": false,
+      "inicio": "2026-09-23",
+      "fim": "2026-09-25",
+      "horario": null,
+      "local": "Estados Unidos",
+      "observacao": "Agenda anunciada pelo governo chinês.",
+      "url": "https://www.reuters.com/world/china/chinas-xi-visit-us-september-23-25-2026-09-21/",
+      "fonte": "Reuters",
+      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+    },
+    {
+      "id": "control-ps5",
+      "titulo": "Lançamento de Control Resonant no PS5",
+      "secao": "Geek",
+      "brasil": false,
+      "inicio": "2026-09-24",
+      "fim": "2026-09-24",
+      "horario": null,
+      "local": "PlayStation 5",
+      "observacao": "Data anunciada no blog oficial; horário não informado.",
+      "url": "https://blog.playstation.com/2026/09/18/control-resonant-how-remedy-is-going-bigger-and-weirder-with-its-paranatural-horror-sequel-on-september-24/",
+      "fonte": "PlayStation Blog",
+      "confirmadoEm": "2026-09-22T11:17:34.534Z"
     },
     {
       "id": "eleicoes",
@@ -238,7 +267,7 @@
       "local": "Brasil",
       "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/faltam-13-dias-saiba-como-justificar-a-ausencia-nas-eleicoes-2026",
       "fonte": "TSE",
-      "confirmadoEm": "2026-09-21T22:59:06.672Z"
+      "confirmadoEm": "2026-09-22T11:17:34.534Z"
     },
     {
       "id": "palmeiras-bahia",
@@ -251,7 +280,7 @@
       "local": "Brasileirão · 29ª rodada",
       "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/20/athletico-x-bahia.ghtm",
       "fonte": "UOL Esporte",
-      "confirmadoEm": "2026-09-21T22:59:06.672Z"
+      "confirmadoEm": "2026-09-22T11:17:34.534Z"
     },
     {
       "id": "nycc",
@@ -264,7 +293,7 @@
       "local": "Javits Center · Nova York",
       "url": "https://www.newyorkcomiccon.com/",
       "fonte": "NYCC",
-      "confirmadoEm": "2026-09-21T22:59:06.672Z"
+      "confirmadoEm": "2026-09-22T11:17:34.534Z"
     },
     {
       "id": "bgs",
@@ -275,10 +304,24 @@
       "fim": "2026-10-12",
       "horario": null,
       "local": "Distrito Anhembi · São Paulo",
-      "observacao": "Regras de acesso variam por dia.",
+      "observacao": "9/10 tem acesso para imprensa e modalidades específicas; ingressos comuns de 10 a 12/10.",
       "url": "https://www.brasilgameshow.com.br/",
       "fonte": "BGS",
-      "confirmadoEm": "2026-09-21T22:59:06.672Z"
+      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+    },
+    {
+      "id": "one-piece-cinemas",
+      "titulo": "One Piece: Aventura na Ilha Espiral · estreia no Brasil",
+      "secao": "Geek",
+      "brasil": true,
+      "inicio": "2026-10-22",
+      "fim": "2026-10-22",
+      "horario": null,
+      "local": "Cinemas brasileiros",
+      "observacao": "Versão dublada; sessões variam por cinema.",
+      "url": "https://www.omelete.com.br/mangas-animes/one-piece-aventura-na-ilha-espiral-poster-trailer",
+      "fonte": "Omelete",
+      "confirmadoEm": "2026-09-22T11:17:34.534Z"
     },
     {
       "id": "ccxp",
@@ -291,7 +334,7 @@
       "local": "São Paulo Expo · São Paulo",
       "url": "https://ccxp.com.br/",
       "fonte": "CCXP",
-      "confirmadoEm": "2026-09-21T22:59:06.672Z"
+      "confirmadoEm": "2026-09-22T11:17:34.534Z"
     }
   ]
 }
