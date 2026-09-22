@@ -1,6 +1,6 @@
 # Manutenção editorial do Radar
 
-Este arquivo documenta a seleção de conteúdo da cópia de estudo no GitHub. Aqui os arquivos públicos estão na raiz: `config.js` e `dados.json`. No projeto hospedado em Sites, esses arquivos ficam em `dist/`. As duas cópias não são sincronizadas automaticamente.
+Este arquivo documenta a seleção de conteúdo da cópia de estudo no GitHub. Aqui os arquivos públicos estão na raiz: `config.js` e `dados.json`. No projeto hospedado em Sites, esses arquivos ficam em `dist/`. A tarefa recorrente do Radar sincroniza apenas o conteúdo de `dist/dados.json` publicado em Sites para `dados.json` no GitHub, após confirmar a publicação e validar a compatibilidade. Alterações feitas no GitHub não são importadas automaticamente para Sites.
 
 ## Rotina da edição
 
@@ -15,7 +15,7 @@ Este arquivo documenta a seleção de conteúdo da cópia de estudo no GitHub. A
 9. Mantenha no calendário eventos futuros ou em andamento, com datas confirmadas por fontes identificadas. `fim` é inclusivo; horários devem ser confirmados e informados em Brasília. Quando desconhecidos, use `horario: null`. Remova eventos cancelados e encerrados ao preparar uma nova edição.
 10. Atualize `edicao`, `atualizadaEm` e as datas de verificação somente após concluir a pesquisa correspondente. Não invente notícias para completar a quantidade. Preserve matérias ainda relevantes com suas datas originais quando não houver novidades suficientes.
 11. Execute `npm run check`. Se faltarem fontes para cumprir o mínimo brasileiro, preserve a última edição válida e registre a limitação.
-12. Revise o diff e envie os arquivos alterados ao GitHub. Para atualizar também o site hospedado em Sites, use o projeto existente, preserve seu acesso público e confirme o sucesso da publicação. O commit neste repositório não executa essa publicação.
+12. Na tarefa recorrente, publique primeiro no projeto existente em Sites, preserve seu acesso público e confirme o sucesso. Depois copie exatamente o arquivo de dados publicado para `dados.json` na `main` do GitHub, execute o verificador na estrutura atual do repositório e envie somente esse arquivo se houver diferença. Preserve todos os demais arquivos, não use force push e não crie commits vazios. Releia os dados remotos antes de escrever; se houver edição concorrente, preserve-a e informe o conflito. Confirme o commit e o conteúdo remoto antes de relatar sincronização concluída. Uma falha no GitHub não deve desfazer a publicação em Sites. Para edições manuais de interface, o commit no GitHub não publica mudanças em Sites.
 
 ## Estrutura dos dados
 
