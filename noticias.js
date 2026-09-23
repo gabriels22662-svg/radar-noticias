@@ -4,7 +4,7 @@ const SECOES = {
   futebol: { titulo: "Futebol", numero: "01", cor: "var(--futebol)", tinta: "#f0f8f2", descricao: "Brasileirão e cinco ligas europeias. Prioridade para os brasileiros." },
   trending: { titulo: "Trending", numero: "02", cor: "var(--trending)", tinta: "#f0f3ff", descricao: "Seleção editorial de acontecimentos no Brasil e no mundo." },
   geek: { titulo: "Mundo geek", numero: "03", cor: "var(--geek)", tinta: "#f6f1fc", descricao: "Jogos, animes, filmes, séries e os próximos encontros." },
-  musica: { titulo: "Música", numero: "05", cor: "#995500", tinta: "#fff8eb", descricao: "Shows, festivais e novidades dos artistas selecionados." },
+  musica: { titulo: "Música", numero: "05", cor: "#995500", tinta: "#fff8eb", descricao: "Pop, indie, rock, rap e suas derivações. Artistas, bandas e eventos, com prioridade para o Brasil e a Bahia." },
 };
 
 function criarCard(noticia) {
@@ -12,11 +12,14 @@ function criarCard(noticia) {
   const publicacao = noticia.publicadaEm
     ? `<time datetime="${escapar(noticia.publicadaEm)}">${formatarData(noticia.publicadaEm)}</time>`
     : "Agenda confirmada";
+  const atualizacao = noticia.atualizadaEm && noticia.atualizadaEm.slice(0, 10) !== noticia.publicadaEm
+    ? ` · Atualizada em <time datetime="${escapar(noticia.atualizadaEm)}">${formatarData(noticia.atualizadaEm)}</time>`
+    : "";
   return `<article class="noticia" id="${escapar(noticia.id)}">
     <div class="noticia-meta">
       <span class="categoria">${escapar(noticia.assunto)}</span>
       ${noticia.brasil ? '<span class="selo-br" title="Assunto ligado ao Brasil">BR</span>' : ""}
-      <span aria-hidden="true">·</span> ${publicacao}
+      <span aria-hidden="true">·</span> ${publicacao}${atualizacao}
     </div>
     <h3><a href="${link}" target="_blank" rel="noopener noreferrer">${escapar(noticia.titulo)}</a></h3>
     <p>${escapar(noticia.resumo)}</p>

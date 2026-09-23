@@ -1,6 +1,6 @@
 {
   "edicao": "2026-09-22",
-  "atualizadaEm": "2026-09-22T11:17:34.534Z",
+  "atualizadaEm": "2026-09-23T00:16:05Z",
   "criterioTrending": "Seleção editorial de acontecimentos recentes; não é um ranking medido de redes sociais.",
   "noticias": [
     {
@@ -199,35 +199,75 @@
       "idioma": "EN",
       "url": "https://www.netflix.com/tudum/articles/what-to-watch-on-netflix-september-18-2026",
       "verificadaEm": "2026-09-22T11:17:34.534Z"
+    },
+    {
+      "secao": "musica",
+      "verificadaEm": "2026-09-23T00:16:05Z",
+      "id": "pitty-sobremesa",
+      "assunto": "Rock · Bahia",
+      "brasil": true,
+      "publicadaEm": "2026-09-18",
+      "titulo": "Pitty apresenta “Sobremesa” e prepara álbum para outubro",
+      "resumo": "A cantora baiana apresentou a primeira faixa de seu próximo disco, previsto para 16 de outubro. O lançamento abre uma nova fase de músicas inéditas; a turnê começa em São Paulo no dia seguinte.",
+      "fonte": "Bahia Notícias",
+      "idioma": "PT",
+      "url": "https://www.bahianoticias.com.br/holofote/noticia/85628-pitty-divulga-sobremesa-primeira-cancao-do-disco-que-cantora-lancara-em-outubro"
+    },
+    {
+      "secao": "musica",
+      "verificadaEm": "2026-09-23T00:16:05Z",
+      "id": "salvador-batalhas-setembro",
+      "assunto": "Rap e trap · Salvador",
+      "brasil": true,
+      "publicadaEm": "2026-09-02",
+      "atualizadaEm": "2026-09-22",
+      "titulo": "Cidade da Música recebe batalhas de rimas em Salvador",
+      "resumo": "A programação municipal atualizada confirma A Cidade das Batalhas em 23 de setembro e outra atividade de rap e trap no dia 30, ambas às 14h30. Os encontros integram o Festival da Primavera na capital baiana.",
+      "fonte": "Salvador da Bahia · Prefeitura",
+      "idioma": "PT",
+      "url": "https://www.salvadordabahia.com/eventos/festival-da-primavera-2026-confira-programacao/"
+    },
+    {
+      "secao": "musica",
+      "verificadaEm": "2026-09-23T00:16:05Z",
+      "id": "foundry-brasil-2026",
+      "assunto": "Pop e cena independente · Brasil",
+      "brasil": true,
+      "publicadaEm": "2026-09-16",
+      "titulo": "José Jr e Mariasss entram na nova seleção do Foundry",
+      "resumo": "O programa do YouTube incluiu dois nomes brasileiros entre 16 novos artistas de oito países. José Jr aproxima folk, rock e música brasileira; o trio Mariasss trabalha com pop. Os selecionados recebem apoio ao desenvolvimento de suas carreiras independentes.",
+      "fonte": "YouTube Blog",
+      "idioma": "EN",
+      "url": "https://blog.youtube/creator-and-artist-stories/new-artists-youtube-music-foundry-class-2026/"
+    },
+    {
+      "secao": "musica",
+      "verificadaEm": "2026-09-23T00:16:05Z",
+      "id": "taylor-patient-zero",
+      "assunto": "Pop · Lançamento",
+      "brasil": false,
+      "publicadaEm": "2026-09-22",
+      "titulo": "Taylor Swift anuncia single para 25 de setembro",
+      "resumo": "A cantora confirmou “Patient Zero” para esta sexta-feira após divulgar uma contagem regressiva. A reportagem reúne o anúncio publicado por Swift e situa o lançamento na sequência de seus trabalhos recentes.",
+      "fonte": "ABC · Good Morning America",
+      "idioma": "EN",
+      "url": "https://www.goodmorningamerica.com/culture/story/taylor-swift-announces-new-single-patient-zero-136657611"
+    },
+    {
+      "secao": "musica",
+      "verificadaEm": "2026-09-23T00:16:05Z",
+      "id": "chvrches-roses",
+      "assunto": "Indie pop e rock",
+      "brasil": false,
+      "publicadaEm": "2026-09-22",
+      "titulo": "CHVRCHES lança “Roses” com guitarras em destaque",
+      "resumo": "O trio escocês apresentou uma nova faixa após um período dedicado também a projetos individuais. Na leitura do Stereogum, o lançamento destaca mais as guitarras; Lauren Mayberry afirma que o grupo buscou explorar outros caminhos ao voltar a compor.",
+      "fonte": "Stereogum",
+      "idioma": "EN",
+      "url": "https://stereogum.com/2512236/chvrches-roses/music"
     }
   ],
   "eventos": [
-    {
-      "id": "debate-onu",
-      "titulo": "Início do debate geral da ONU",
-      "secao": "Trending",
-      "brasil": false,
-      "inicio": "2026-09-22",
-      "fim": "2026-09-22",
-      "horario": null,
-      "local": "Nova York · EUA",
-      "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/09/21-25/",
-      "fonte": "Conselho Europeu",
-      "confirmadoEm": "2026-09-22T11:17:34.534Z"
-    },
-    {
-      "id": "primavera",
-      "titulo": "Início da primavera",
-      "secao": "Trending",
-      "brasil": true,
-      "inicio": "2026-09-22",
-      "fim": "2026-09-22",
-      "horario": "21h05",
-      "local": "Hemisfério Sul",
-      "url": "https://ciram.epagri.sc.gov.br/index.php/2026/09/22/previsao-5-dias/",
-      "fonte": "Epagri/Ciram",
-      "confirmadoEm": "2026-09-22T11:17:34.534Z"
-    },
     {
       "id": "xi-eua",
       "titulo": "Visita de Xi Jinping aos Estados Unidos",
@@ -241,6 +281,20 @@
       "url": "https://www.reuters.com/world/china/chinas-xi-visit-us-september-23-25-2026-09-21/",
       "fonte": "Reuters",
       "confirmadoEm": "2026-09-22T11:17:34.534Z"
+    },
+    {
+      "id": "cidade-batalhas-23",
+      "titulo": "A Cidade das Batalhas · rap e trap",
+      "brasil": true,
+      "inicio": "2026-09-23",
+      "fim": "2026-09-23",
+      "horario": "14h30",
+      "local": "Cidade da Música da Bahia · Salvador",
+      "observacao": "Programação do Festival da Primavera confirmada pela Prefeitura.",
+      "url": "https://www.salvadordabahia.com/eventos/festival-da-primavera-2026-confira-programacao/",
+      "fonte": "Salvador da Bahia · Prefeitura",
+      "secao": "Música",
+      "confirmadoEm": "2026-09-23T00:16:05Z"
     },
     {
       "id": "control-ps5",
@@ -257,6 +311,34 @@
       "confirmadoEm": "2026-09-22T11:17:34.534Z"
     },
     {
+      "id": "taylor-single-25",
+      "titulo": "Taylor Swift · lançamento de “Patient Zero”",
+      "brasil": false,
+      "inicio": "2026-09-25",
+      "fim": "2026-09-25",
+      "horario": null,
+      "local": "Lançamento musical",
+      "observacao": "Data anunciada pela artista; horário não confirmado nesta edição.",
+      "url": "https://www.goodmorningamerica.com/culture/story/taylor-swift-announces-new-single-patient-zero-136657611",
+      "fonte": "ABC · Good Morning America",
+      "secao": "Música",
+      "confirmadoEm": "2026-09-23T00:16:05Z"
+    },
+    {
+      "id": "batalha-rap-30",
+      "titulo": "Batalha de rap e trap",
+      "brasil": true,
+      "inicio": "2026-09-30",
+      "fim": "2026-09-30",
+      "horario": "14h30",
+      "local": "Cidade da Música da Bahia · Salvador",
+      "observacao": "Atividade de mediação sobre hip-hop com batalha de rimas.",
+      "url": "https://www.salvadordabahia.com/eventos/festival-da-primavera-2026-confira-programacao/",
+      "fonte": "Salvador da Bahia · Prefeitura",
+      "secao": "Música",
+      "confirmadoEm": "2026-09-23T00:16:05Z"
+    },
+    {
       "id": "eleicoes",
       "titulo": "Eleições brasileiras · primeiro turno",
       "secao": "Trending",
@@ -267,19 +349,6 @@
       "local": "Brasil",
       "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/faltam-13-dias-saiba-como-justificar-a-ausencia-nas-eleicoes-2026",
       "fonte": "TSE",
-      "confirmadoEm": "2026-09-22T11:17:34.534Z"
-    },
-    {
-      "id": "palmeiras-bahia",
-      "titulo": "Palmeiras × Bahia",
-      "secao": "Futebol",
-      "brasil": true,
-      "inicio": "2026-10-08",
-      "fim": "2026-10-08",
-      "horario": "21h30",
-      "local": "Brasileirão · 29ª rodada",
-      "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/20/athletico-x-bahia.ghtm",
-      "fonte": "UOL Esporte",
       "confirmadoEm": "2026-09-22T11:17:34.534Z"
     },
     {
@@ -296,6 +365,19 @@
       "confirmadoEm": "2026-09-22T11:17:34.534Z"
     },
     {
+      "id": "palmeiras-bahia",
+      "titulo": "Palmeiras × Bahia",
+      "secao": "Futebol",
+      "brasil": true,
+      "inicio": "2026-10-08",
+      "fim": "2026-10-08",
+      "horario": "21h30",
+      "local": "Brasileirão · 29ª rodada",
+      "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/20/athletico-x-bahia.ghtm",
+      "fonte": "UOL Esporte",
+      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+    },
+    {
       "id": "bgs",
       "titulo": "Brasil Game Show",
       "secao": "Geek",
@@ -308,6 +390,34 @@
       "url": "https://www.brasilgameshow.com.br/",
       "fonte": "BGS",
       "confirmadoEm": "2026-09-22T11:17:34.534Z"
+    },
+    {
+      "id": "pitty-album-16",
+      "titulo": "Pitty · lançamento do álbum",
+      "brasil": true,
+      "inicio": "2026-10-16",
+      "fim": "2026-10-16",
+      "horario": null,
+      "local": "Lançamento musical",
+      "observacao": "Data anunciada; horário não informado na fonte consultada.",
+      "url": "https://www.bahianoticias.com.br/holofote/noticia/85628-pitty-divulga-sobremesa-primeira-cancao-do-disco-que-cantora-lancara-em-outubro",
+      "fonte": "Bahia Notícias",
+      "secao": "Música",
+      "confirmadoEm": "2026-09-23T00:16:05Z"
+    },
+    {
+      "id": "pitty-turne-17",
+      "titulo": "Pitty · estreia da turnê",
+      "brasil": true,
+      "inicio": "2026-10-17",
+      "fim": "2026-10-17",
+      "horario": null,
+      "local": "Espaço Unimed · São Paulo",
+      "observacao": "A reportagem confirma data e local; horário não informado.",
+      "url": "https://www.bahianoticias.com.br/holofote/noticia/85628-pitty-divulga-sobremesa-primeira-cancao-do-disco-que-cantora-lancara-em-outubro",
+      "fonte": "Bahia Notícias",
+      "secao": "Música",
+      "confirmadoEm": "2026-09-23T00:16:05Z"
     },
     {
       "id": "one-piece-cinemas",

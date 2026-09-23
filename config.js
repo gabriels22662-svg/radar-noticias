@@ -7,5 +7,14 @@ export const CONFIG = {
     "Brasileirão", "Premier League", "La Liga",
     "Serie A", "Bundesliga", "Ligue 1",
   ],
-  musica: { ativa: false, artistas: [] },
+  musica: {
+    ativa: true,
+    generos: ["pop", "indie", "rock", "rap"],
+    incluirDerivacoes: true,
+    artistas: [], // Sem lista fechada por enquanto; refine aqui quando quiser.
+    prioridadeRegional: ["Bahia", "Brasil"],
+    minimoBrasil: 2,
+    priorizarBahiaQuandoHouverFontes: true,
+    criterios: ["atualidade", "relevância editorial", "repercussão verificável"],
+  },
 };

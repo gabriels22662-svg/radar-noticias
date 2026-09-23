@@ -7,7 +7,7 @@ Projeto de estudo com HTML, CSS e JavaScript: notícias por seção e um calend�
 ## O que o projeto faz
 
 - Exibe até cinco matérias por seção ativa, com pelo menos duas relacionadas diretamente ao Brasil.
-- Organiza futebol, trending e geek; música permanece pendente até a configuração dos artistas.
+- Organiza futebol, trending e geek; música cobre pop, indie, rock, rap e suas derivações, com prioridade para o Brasil e a Bahia.
 - Mostra resumos próprios, datas e links para as fontes.
 - Permite navegar pelo calendário e consultar acontecimentos de um dia.
 - Adapta o layout ao celular e oferece compartilhamento do endereço da página.
@@ -232,3 +232,7 @@ chore: sincronizar notícias e agenda de AAAA-MM-DD
 ```
 
 Abra o commit para ver as linhas alteradas em `dados.json`. O relatório da tarefa também deve distinguir a publicação no site do envio ao GitHub. A configuração já está ativa; a etapa automática completa será exercitada nas próximas execuções da tarefa.
+
+## Recorte de música
+
+A seção está ativa para pop, indie, rock e rap, incluindo derivações quando houver relevância editorial e repercussão verificável. São até cinco matérias, ao menos duas relacionadas diretamente ao Brasil, com prioridade para artistas, bandas e eventos da Bahia quando houver fontes confirmadas. A lista `artistas: []` em `config.js` mantém a seleção aberta dentro desses gêneros; ela poderá ser refinada com futuras preferências. Lançamentos e eventos com datas confirmadas também aparecem na agenda. Uma pauta não é apresentada como a mais pedida sem dados que sustentem essa afirmação.
