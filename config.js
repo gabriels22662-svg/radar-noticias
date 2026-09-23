@@ -1,5 +1,7 @@
 export const CONFIG = {
   nome: "Radar",
+  // Hoje e os dois dias anteriores, no horário de Brasília.
+  maxIdadeNoticiaDias: 2,
   limitePorSecao: 5,
   minimoBrasil: 2,
   secoes: ["futebol", "trending", "geek", "musica"],

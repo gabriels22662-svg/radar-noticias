@@ -21,11 +21,12 @@ export function iniciarCalendario(eventos) {
       return `<article class="evento">
         <div class="evento-data" aria-hidden="true"><strong>${inicio.slice(8)}</strong>${formatarData(inicio, { month: "short" }).replace(".", "")}</div>
         <div class="evento-info">
-          <span class="evento-tag">${escapar(e.secao)}${e.brasil ? " · Brasil" : " · Internacional"}</span>
+          <span class="evento-tag">${escapar(e.secao)}</span>
           <h3><a href="${escapar(urlSegura(e.url))}" target="_blank" rel="noopener noreferrer">${escapar(e.titulo)} <span aria-hidden="true">↗</span></a></h3>
-          <p><time datetime="${escapar(e.inicio)}">${formatarData(e.inicio)}</time> · ${periodo}${escapar(e.horario || "Horário não divulgado")}</p>
+          <p><time datetime="${escapar(e.inicio)}">${formatarData(e.inicio)}</time> · ${periodo}${escapar(e.horario || "Horário a confirmar")}</p>
           <p>${escapar(e.local)}</p>
           ${e.observacao ? `<p>${escapar(e.observacao)}</p>` : ""}
+          <span class="evento-fonte">${escapar(e.fonte)}</span>
         </div>
       </article>`;
     }).join("") : '<p class="vazio">Nenhum acontecimento confirmado para esta data.</p>';

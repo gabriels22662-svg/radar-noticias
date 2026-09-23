@@ -2,7 +2,7 @@
 
 Projeto de estudo com HTML, CSS e JavaScript: notícias por seção e um calendário de acontecimentos. O conteúdo fica em um arquivo JSON, separado da interface.
 
-[Abrir o Radar publicado](https://radar-noticias-gs.silvagabriel17santos.chatgpt.site)
+[Abrir o Radar publicado](https://gabriels22662-svg.github.io/radar-noticias/)
 
 ## O que o projeto faz
 
@@ -11,8 +11,10 @@ Projeto de estudo com HTML, CSS e JavaScript: notícias por seção e um calend�
 - Mostra resumos próprios, datas e links para as fontes.
 - Permite navegar pelo calendário e consultar acontecimentos de um dia.
 - Adapta o layout ao celular e oferece compartilhamento do endereço da página.
+- Permite escolher tema claro, escuro ou automático e lembra a opção neste navegador.
+- Exibe notícias publicadas hoje ou nos dois dias anteriores, com o calendário depois de todas as seções.
 
-O navegador lê `dados.json` ao abrir a página. O código não pesquisa notícias nem atualiza esse arquivo sozinho. A tarefa recorrente do Radar no ChatGPT foi configurada para, após publicar uma edição com sucesso, copiar suas notícias e agenda para `dados.json` neste GitHub. Essa sincronização segue do site para o GitHub; enviar um commit ao GitHub não atualiza automaticamente o site hospedado no endereço acima.
+O navegador lê `dados.json` ao abrir a página. O código não pesquisa notícias nem atualiza esse arquivo sozinho. A tarefa recorrente do Radar no ChatGPT foi configurada para, após publicar uma edição com sucesso, copiar suas notícias e agenda para `dados.json` neste GitHub. Essa sincronização segue do site para o GitHub; o GitHub Pages publica a branch `main` no endereço acima. Essa etapa é confirmada separadamente da publicação na origem em Sites.
 
 ## Baixar e abrir no VS Code
 
@@ -53,7 +55,8 @@ Os arquivos do site ficam na raiz deste repositório. Não é necessário criar 
 | --- | --- |
 | `index.html` | Estrutura da página, seções e navegação |
 | `styles.css` | Cores, tamanhos, espaçamento e adaptação ao celular |
-| `config.js` | Limites por seção, ligas e configuração de música |
+| `config.js` | Janela de atualidade, limites, ligas e configuração de música |
+| `tema.js` | Preferência de tema, incluindo a opção automática do sistema |
 | `dados.json` | Notícias, fontes, datas e acontecimentos do calendário |
 | `app.js` | Carregamento dos dados, início da página e compartilhamento |
 | `noticias.js` | Montagem dos cartões e seleção de matérias |
@@ -79,7 +82,7 @@ Ou execute o mesmo verificador diretamente:
 node scripts/verificar.mjs
 ```
 
-O verificador confere os limites por seção, o recorte brasileiro, IDs repetidos, datas, formato dos links, alguns casos de segurança e calendário, sintaxe JavaScript e referências locais do HTML. Ele não acessa as fontes nem comprova a veracidade das notícias; essa conferência faz parte da pesquisa editorial.
+O verificador confere limites, IDs, datas, formato dos links, segurança, calendário, sintaxe JavaScript e referências locais. Notícias sem data ou fora da janela definida em `config.js` impedem a publicação. Se faltarem duas pautas brasileiras recentes, ele emite um aviso editorial; a rotina deve procurar fontes adicionais e informar qualquer limitação, sem preencher a seleção com notícias antigas. Ele não acessa as fontes nem comprova a veracidade das notícias; essa conferência faz parte da pesquisa editorial.
 
 O campo `private: true` do `package.json` evita publicação acidental como pacote npm. Ele não muda a visibilidade pública deste repositório.
 
@@ -102,7 +105,7 @@ Se o envio for recusado porque existem commits novos no GitHub, atualize sua có
 
 ## Atualizar notícias e estudar o código
 
-Leia `EDITORIAL.md` antes de mudar `dados.json`. Preserve as datas reais das fontes; a data da edição não deve ser alterada apenas para parecer recente. A edição copiada do Radar para este repositório em 22/09/2026 contém 15 notícias e 10 eventos.
+Leia `EDITORIAL.md` antes de mudar `dados.json`. Preserve as datas reais das fontes; a data da edição não deve ser alterada apenas para parecer recente. Notícias sem publicação confirmada ficam fora da seleção; páginas sem data ainda podem servir de fonte para eventos futuros confirmados.
 
 Uma sequência de estudo possível:
 
@@ -126,10 +129,11 @@ Configurada em 22/09/2026 na tarefa existente **Atualizar o Radar**, programada 
 4. Copia o conteúdo exato de `dist/dados.json` dessa versão para `dados.json` na raiz deste repositório.
 5. Valida a compatibilidade com o código atual do GitHub.
 6. Se houver mudança, registra um commit na branch `main` e confirma o conteúdo enviado. Se os arquivos forem iguais, não cria um commit vazio.
+7. Confirma o sucesso da publicação do GitHub Pages para esse commit antes de dizer que o endereço público recebeu a edição.
 
 A tarefa usa as conexões autorizadas do ChatGPT com Sites e GitHub. Não é um workflow do GitHub Actions e não depende de o VS Code ou seu computador estarem abertos.
 
-**Escopo:** apenas notícias e agenda, armazenadas em `dados.json`. A rotina não substitui seu HTML, CSS, JavaScript, README nem configurações. Alterar cores no GitHub não altera o site publicado; alterar `config.js` no GitHub também não configura automaticamente a versão em Sites. Para publicar essas mudanças, é necessário solicitar uma atualização do site.
+**Escopo:** apenas notícias e agenda, armazenadas em `dados.json`. A rotina não substitui seu HTML, CSS, JavaScript, README nem configurações. Alterações na `main` são publicadas pelo GitHub Pages quando a publicação termina com sucesso. Elas não são importadas automaticamente para a origem em Sites. Para manter a mesma interface nos dois endereços, solicite a atualização de ambos.
 
 O arquivo `dados.json` da `main` recebe as edições automáticas. Faça experiências com notícias em uma branch de estudo para mantê-las separadas. Se alguém editar esse arquivo enquanto a rotina estiver trabalhando, ela deve preservar a alteração concorrente e informar o conflito. Falhas de acesso ou validação devem ser relatadas, sem envio forçado nem exclusão de histórico.
 
@@ -231,8 +235,27 @@ Abra este repositório no GitHub e veja o histórico de commits da `main`. Quand
 chore: sincronizar notícias e agenda de AAAA-MM-DD
 ```
 
-Abra o commit para ver as linhas alteradas em `dados.json`. O relatório da tarefa também deve distinguir a publicação no site do envio ao GitHub. A configuração já está ativa; a etapa automática completa será exercitada nas próximas execuções da tarefa.
+Abra o commit para ver as linhas alteradas em `dados.json`. O relatório da tarefa também deve distinguir a publicação no site do envio ao GitHub. Confira também a execução de publicação do Pages em **Actions**: enviar o arquivo e publicar a página são etapas diferentes.
 
 ## Recorte de música
 
 A seção está ativa para pop, indie, rock e rap, incluindo derivações quando houver relevância editorial e repercussão verificável. São até cinco matérias, ao menos duas relacionadas diretamente ao Brasil, com prioridade para artistas, bandas e eventos da Bahia quando houver fontes confirmadas. A lista `artistas: []` em `config.js` mantém a seleção aberta dentro desses gêneros; ela poderá ser refinada com futuras preferências. Lançamentos e eventos com datas confirmadas também aparecem na agenda. Uma pauta não é apresentada como a mais pedida sem dados que sustentem essa afirmação.
+
+## Aparência e atualidade
+
+Futebol → Trending → Geek → Música → Calendário é a ordem de leitura. Contagens e avisos de prioridade regional foram retirados da interface; os critérios editoriais permanecem internos.
+
+No seletor **Tema**, Claro e Escuro fixam sua escolha. Automático acompanha o sistema. A preferência fica em `localStorage`, apenas neste navegador, sem conta. Para estudar essa parte, leia `tema.js` e depois as variáveis no início de `styles.css`.
+
+A janela atual inclui hoje e os dois dias anteriores, pelo calendário de Brasília. Em 23/09, por exemplo, entram publicações de 21, 22 e 23/09. O filtro `noticiaRecente` em `helpers.js` também retira matérias vencidas quando a aba permanece aberta. O timestamp da consulta não renova a idade da notícia. Cada atualização publicada exige nova pesquisa; abrir ou recarregar a página carrega a edição disponível e não executa uma busca por conta própria.
+
+## Próximas etapas do projeto aberto
+
+Estas funcionalidades são planejamento e ainda não estão disponíveis:
+
+1. Organizar contribuições: instruções, sugestões e revisão de mudanças.
+2. Permitir escolhas por pessoa dentro dos nichos: artistas, gêneros, ligas, jogos e séries.
+3. Criar alertas de notícias novas com controle para desativar e identificação por ID para evitar repetições.
+4. Avaliar notificações com a página fechada. Isso exige infraestrutura de envio e autorização do visitante, além do site estático.
+
+Os direitos das matérias e músicas continuam pertencendo às respectivas fontes. A licença do código não transfere esses direitos.

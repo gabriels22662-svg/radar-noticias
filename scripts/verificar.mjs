@@ -3,7 +3,7 @@ import { fileURLToPath } from "node:url";
 import { readFile, access } from "node:fs/promises";
 import { execFileSync } from "node:child_process";
 import { CONFIG } from "../config.js";
-import { dataHoje, selecionarNoticias, eventosNaData, eventosFuturos, urlSegura, escapar } from "../helpers.js";
+import { dataHoje, noticiaRecente, selecionarNoticias, eventosNaData, eventosFuturos, urlSegura, escapar } from "../helpers.js";
 
 const dados = JSON.parse(await readFile(new URL("../dados.json", import.meta.url), "utf8"));
 const ids = new Set();
@@ -16,6 +16,7 @@ for (const n of dados.noticias) {
   assert(CONFIG.secoes.includes(n.secao), `Seção inválida: ${n.secao}`);
   assert.equal(typeof n.brasil, "boolean");
   assert(urlSegura(n.url) !== "#", `URL inválida: ${n.id}`);
+  assert(noticiaRecente(n, dados.edicao, CONFIG.maxIdadeNoticiaDias), `Notícia sem data ou fora da janela de dois dias: ${n.id}`);
   if (n.publicadaEm) assert(dataValida(n.publicadaEm) && n.publicadaEm <= dados.edicao, `Data de publicação inválida: ${n.id}`);
   assert(Number.isFinite(Date.parse(n.verificadaEm)), `Data da checagem inválida: ${n.id}`);
   assert(n.resumo.split(/\s+/).length <= 65, `Resumo longo demais: ${n.id}`);
@@ -24,7 +25,7 @@ for (const secao of CONFIG.secoes) {
   if (secao === "musica" && !CONFIG.musica.ativa) continue;
   const lista = dados.noticias.filter(n => n.secao === secao);
   assert(lista.length <= CONFIG.limitePorSecao, `Mais de 5 notícias em ${secao}`);
-  assert(lista.filter(n => n.brasil).length >= CONFIG.minimoBrasil, `Faltam matérias brasileiras em ${secao}`);
+  if (lista.filter(n => n.brasil).length < CONFIG.minimoBrasil) console.warn(`AVISO EDITORIAL: ${secao} tem menos de ${CONFIG.minimoBrasil} notícias brasileiras recentes. Informe a limitação; não mantenha matérias vencidas.`);
   assert.equal(selecionarNoticias(dados.noticias, secao).length, lista.length);
 }
 const idsEventos = new Set();
@@ -36,6 +37,16 @@ for (const e of dados.eventos) {
   assert(urlSegura(e.url) !== "#", `Fonte inválida: ${e.id}`);
   assert(e.fonte && e.confirmadoEm && e.local, `Metadados ausentes: ${e.id}`);
 }
+// A mesma janela é usada na validação da edição e na tela.
+assert(Number.isInteger(CONFIG.maxIdadeNoticiaDias) && CONFIG.maxIdadeNoticiaDias >= 0, "Janela de atualidade inválida");
+assert(noticiaRecente({ publicadaEm: "2026-09-23" }, "2026-09-23"));
+assert(noticiaRecente({ publicadaEm: "2026-09-21" }, "2026-09-23"));
+assert(!noticiaRecente({ publicadaEm: "2026-09-20" }, "2026-09-23"));
+assert(!noticiaRecente({ publicadaEm: "2026-09-24" }, "2026-09-23"));
+assert(!noticiaRecente({ publicadaEm: null, atualizadaEm: "2026-09-23" }, "2026-09-23"));
+assert(!noticiaRecente({ publicadaEm: "2026-09-01", verificadaEm: "2026-09-23T12:00:00-03:00" }, "2026-09-23"));
+assert(!noticiaRecente({ publicadaEm: "2026-02-30" }, "2026-03-01"));
+assert(noticiaRecente({ publicadaEm: "2025-12-31" }, "2026-01-02"));
 // Fronteiras relevantes: fuso brasileiro, feiras de vários dias e links não confiáveis.
 assert.equal(dataHoje(new Date("2026-09-22T01:00:00Z")), "2026-09-21");
 assert.equal(urlSegura("javascript:alert(1)"), "#");
@@ -45,9 +56,9 @@ assert.equal(eventosNaData(feira, "2026-10-11").length, 1);
 assert.equal(eventosFuturos(feira, "2026-10-13").length, 0);
 
 const html = await readFile(new URL("../index.html", import.meta.url), "utf8");
-for (const nome of ["config.js", "app.js", "calendario.js", "noticias.js", "helpers.js"]) {
+for (const nome of ["config.js", "app.js", "calendario.js", "noticias.js", "helpers.js", "tema.js"]) {
   const arquivo = new URL(`../${nome}`, import.meta.url);
   execFileSync(process.execPath, ["--check", fileURLToPath(arquivo)]);
 }
 for (const [, caminho] of html.matchAll(/(?:src|href)="\.\/([^"]+)"/g)) await access(new URL(`../${caminho}`, import.meta.url));
-console.log(`Validação concluída: ${dados.noticias.length} notícias; mínimo de 2 BR por seção ativa; ${dados.eventos.length} eventos; datas, módulos e referências locais válidos.`);
+console.log(`Validação concluída: ${dados.noticias.length} notícias; janela de dois dias; ${dados.eventos.length} eventos; datas, módulos e referências locais válidos.`);

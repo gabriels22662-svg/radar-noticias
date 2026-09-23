@@ -11,17 +11,22 @@ async function iniciar() {
     if (!resposta.ok) throw new Error("Edição indisponível");
     const dados = await resposta.json();
     if (!Array.isArray(dados.noticias) || !Array.isArray(dados.eventos)) throw new Error("Edição inválida");
-    const total = renderizarNoticias(dados, CONFIG);
+    renderizarNoticias(dados, CONFIG);
     const agenda = iniciarCalendario(dados.eventos);
     document.querySelector("#data-edicao").textContent = `Edição ${formatarData(dados.edicao, { day: "2-digit", month: "long", year: "numeric" })}`;
-    document.querySelector("#resumo-edicao").textContent = `${total} matérias selecionadas. ${agenda.quantidade} datas para acompanhar.`;
-    if (dados.edicao < dataHoje()) {
-      const aviso = document.querySelector("#aviso-edicao");
-      aviso.hidden = false;
-      aviso.textContent = `Você está lendo a edição de ${formatarData(dados.edicao, { day: "numeric", month: "long" })}. A data da edição muda quando uma nova seleção é publicada.`;
-    }
     estado.hidden = true;
-    ativarNavegacao();
+    let pararNavegacao = ativarNavegacao();
+    let diaExibido = dataHoje();
+    // Retira notícias vencidas se a aba ficar aberta durante a virada do dia.
+    const reverData = () => {
+      if (dataHoje() === diaExibido) return;
+      diaExibido = dataHoje();
+      pararNavegacao();
+      renderizarNoticias(dados, CONFIG);
+      pararNavegacao = ativarNavegacao();
+    };
+    setInterval(reverData, 60_000);
+    document.addEventListener("visibilitychange", reverData);
     registrarFerramentaAgenda(agenda);
   } catch (erro) {
     estado.textContent = "Não foi possível carregar as notícias. Atualize a página para tentar novamente.";
@@ -30,7 +35,7 @@ async function iniciar() {
 }
 
 function ativarNavegacao() {
-  if (!("IntersectionObserver" in window)) return;
+  if (!("IntersectionObserver" in window)) return () => {};
   const links = [...document.querySelectorAll(".navegacao a")];
   const observador = new IntersectionObserver(entradas => {
     const visivel = entradas.find(e => e.isIntersecting);
@@ -40,7 +45,8 @@ function ativarNavegacao() {
       else link.removeAttribute("aria-current");
     }
   }, { rootMargin: "-10% 0px -65% 0px", threshold: 0 });
-  document.querySelectorAll(".secao, #agenda, #musica").forEach(e => observador.observe(e));
+  document.querySelectorAll(".secao").forEach(e => observador.observe(e));
+  return () => observador.disconnect();
 }
 
 // Integração opcional: navegadores sem WebMCP seguem funcionando normalmente.

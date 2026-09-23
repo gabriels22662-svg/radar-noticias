@@ -21,6 +21,16 @@ export function urlSegura(valor) {
   } catch { return "#"; }
 }
 
+// A idade usa a publicação real; consultar ou editar uma matéria não renova sua idade.
+export function noticiaRecente(noticia, hoje = dataHoje(), maxDias = 2) {
+  const publicada = noticia.publicadaEm;
+  if (typeof publicada !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(publicada)) return false;
+  const instante = Date.parse(`${publicada}T12:00:00Z`);
+  if (!Number.isFinite(instante) || new Date(instante).toISOString().slice(0, 10) !== publicada) return false;
+  const idade = (Date.parse(`${hoje}T12:00:00Z`) - instante) / 86_400_000;
+  return idade >= 0 && idade <= maxDias;
+}
+
 // Primeiro garantimos o recorte brasileiro, depois mantemos a ordem editorial.
 export function selecionarNoticias(noticias, secao, limite = 5, minimoBrasil = 2) {
   const candidatas = noticias.filter(n => n.secao === secao);
