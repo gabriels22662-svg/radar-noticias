@@ -1,6 +1,6 @@
 {
-  "edicao": "2026-09-22",
-  "atualizadaEm": "2026-09-23T00:16:05Z",
+  "edicao": "2026-09-23",
+  "atualizadaEm": "2026-09-23T12:01:08.875Z",
   "criterioTrending": "Seleção editorial de acontecimentos recentes; não é um ranking medido de redes sociais.",
   "noticias": [
     {
@@ -14,7 +14,8 @@
       "fonte": "ge",
       "idioma": "PT",
       "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/09/22/recuperar-as-pernas-palmeiras-cria-mantra-de-16-finais-e-conta-com-data-fifa-para-ganhar-folego.ghtml",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "verificadaEm": "2026-09-23T12:01:08.875Z",
+      "atualizadaEm": "2026-09-22"
     },
     {
       "id": "fla-bragantino",
@@ -30,17 +31,17 @@
       "verificadaEm": "2026-09-22T11:17:34.534Z"
     },
     {
-      "id": "bahia-athletico",
+      "id": "bahia-preparacao-palmeiras",
       "secao": "futebol",
-      "assunto": "Brasileirão",
+      "assunto": "Brasileirão · Bahia",
       "brasil": true,
-      "publicadaEm": "2026-09-20",
-      "titulo": "Bahia perde para o Athletico e tem sequência interrompida",
-      "resumo": "O Athletico venceu por 2 a 1 e voltou à terceira posição. O próximo compromisso do Bahia no campeonato será contra o Palmeiras, em 8 de outubro.",
-      "fonte": "UOL Esporte",
+      "publicadaEm": "2026-09-22",
+      "titulo": "Bahia inicia preparação para enfrentar o Palmeiras em outubro",
+      "resumo": "Na reapresentação, os jogadores mais utilizados contra o Athletico fizeram trabalho regenerativo, enquanto o restante do elenco enfrentou o sub-17 em um jogo-treino. O clube confirma o próximo compromisso pelo Brasileirão para 8 de outubro, em São Paulo.",
+      "fonte": "Esporte Clube Bahia",
       "idioma": "PT",
-      "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/20/athletico-x-bahia.ghtm",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "url": "https://www.esporteclubebahia.com.br/reapresentacao-12/",
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "kane-cem-gols",
@@ -53,21 +54,20 @@
       "fonte": "Bundesliga",
       "idioma": "EN",
       "url": "https://www.bundesliga.com/en/bundesliga/news/how-has-harry-kane-scored-his-first-100-goals-bayern-munich-39302",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
-      "id": "roma-inter",
+      "id": "barcelona-raphinha-yamal",
       "secao": "futebol",
-      "assunto": "Serie A",
-      "brasil": false,
-      "publicadaEm": "2026-09-21",
-      "titulo": "Inter empata com a Roma",
-      "resumo": "Lautaro Martínez marcou duas vezes no segundo tempo e garantiu o 2 a 2 pela Serie A.",
-      "fonte": "The Guardian",
+      "assunto": "La Liga · Brasileiros no exterior",
+      "brasil": true,
+      "publicadaEm": "2026-09-22",
+      "titulo": "Barcelona destaca o início de temporada de Raphinha e Lamine Yamal",
+      "resumo": "O balanço do clube registra 12 gols do brasileiro Raphinha e sete de Lamine Yamal nas primeiras sete rodadas da liga espanhola. A reportagem analisa como a dupla contribui para o ataque do Barcelona.",
+      "fonte": "FC Barcelona",
       "idioma": "EN",
-      "url": "https://www.theguardian.com/football/2026/sep/21/serie-a-inter-roma-lautaro-martinez-gian-piero-gasperini",
-      "atualizadaEm": "2026-09-21",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4579612/raphinha-and-lamine-yamal-europes-most-productive-duo",
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "onu-multilateralismo",
@@ -80,33 +80,35 @@
       "fonte": "Conselho Europeu",
       "idioma": "EN",
       "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/21/declaration-of-the-partners-for-multilateralism-p4m-summit-21-september-2026/",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "verificadaEm": "2026-09-23T12:01:08.875Z",
+      "atualizadaEm": "2026-09-22"
     },
     {
-      "id": "chuvas-sp-22",
+      "id": "receita-restituicao-setembro",
       "secao": "trending",
-      "assunto": "Clima",
+      "assunto": "Serviços · Brasil",
       "brasil": true,
       "publicadaEm": "2026-09-21",
-      "titulo": "Defesa Civil prevê chuvas fortes em SP nesta terça, 22 de setembro",
-      "resumo": "A previsão aponta chuva, raios e rajadas de vento, com possibilidade de granizo isolado. A agência estadual destaca risco de alagamentos em áreas vulneráveis e maiores acumulados na região metropolitana e em partes do litoral.",
-      "fonte": "Agência SP",
+      "titulo": "Receita anuncia consulta ao lote residual do IR para 23 de setembro",
+      "resumo": "A consulta foi programada para as 9h desta quarta-feira, com pagamento em 30 de setembro. Segundo a Receita, o lote reúne 412.186 restituições, incluindo declarações com pendências resolvidas e valores de exercícios anteriores.",
+      "fonte": "Receita Federal",
       "idioma": "PT",
-      "url": "https://www.agenciasp.sp.gov.br/previsao-do-tempo-para-terca-feira-22-em-sp-tempo-bastante-instavel/",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-quarta-feira-23",
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
-      "id": "tse-playlist",
+      "id": "tse-chatvote",
       "secao": "trending",
-      "assunto": "Brasil",
+      "assunto": "Tecnologia · Serviços eleitorais",
       "brasil": true,
-      "publicadaEm": "2026-09-21",
-      "titulo": "TSE reúne vídeos sobre serviços e preparação para as eleições",
-      "resumo": "A playlist oficial explica consulta à situação eleitoral, ordem de votação, uso do e-Título e acessibilidade. A reportagem publicada na noite de 21 de setembro apresenta os materiais para esclarecer dúvidas antes e durante a votação.",
+      "publicadaEm": "2026-09-22",
+      "atualizadaEm": "2026-09-22",
+      "titulo": "TSE lança ChatVote para esclarecer dúvidas sobre as eleições",
+      "resumo": "O assistente virtual está no portal do tribunal e no e-Título, com informações sobre votação, justificativa e serviços eleitorais. O TSE informa que acompanhará a qualidade das respostas e ressalta que, em caso de divergência, prevalecem suas orientações oficiais.",
       "fonte": "Tribunal Superior Eleitoral",
       "idioma": "PT",
-      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/playlist-reune-orientacoes-para-o-eleitorado-sobre-as-eleicoes-2026",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-lanca-assistente-virtual-para-ampliar-acesso-a-informacoes-sobre-as-eleicoes-2026",
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "xi-visita-eua",
@@ -119,20 +121,21 @@
       "fonte": "Reuters",
       "idioma": "EN",
       "url": "https://www.reuters.com/world/china/chinas-xi-visit-us-september-23-25-2026-09-21/",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
-      "id": "lake-powell",
+      "id": "perseverance-agua-marte",
       "secao": "trending",
-      "assunto": "Meio ambiente",
+      "assunto": "Ciência · Espaço",
       "brasil": false,
-      "publicadaEm": "2026-09-18",
-      "titulo": "Imagens de satélite mostram o nível recorde de baixa do lago Powell",
-      "resumo": "A NASA compara registros de 2017 e 2026 do reservatório nos Estados Unidos. Pouca neve no inverno e temperaturas elevadas contribuíram para reduzir o volume de água.",
-      "fonte": "NASA Earth Observatory",
+      "publicadaEm": "2026-09-21",
+      "atualizadaEm": "2026-09-21",
+      "titulo": "Perseverance encontra registros de diferentes episódios de água em Marte",
+      "resumo": "Análises de rochas na cratera Jezero indicam pelo menos três interações com água no passado. O estudo ajuda a reconstruir a história geológica e as condições ambientais do planeta; não representa uma confirmação de vida marciana.",
+      "fonte": "NASA · JPL",
       "idioma": "EN",
-      "url": "https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "one-piece-ilha-espiral",
@@ -146,7 +149,7 @@
       "idioma": "PT",
       "url": "https://www.omelete.com.br/mangas-animes/one-piece-aventura-na-ilha-espiral-poster-trailer",
       "atualizadaEm": "2026-09-21",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "bgs-2026",
@@ -159,20 +162,20 @@
       "fonte": "Brasil Game Show",
       "idioma": "PT",
       "url": "https://www.brasilgameshow.com.br/",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
-      "id": "alya-segunda-temporada",
+      "id": "ccxp-billy-boyd",
       "secao": "geek",
-      "assunto": "Animes",
-      "brasil": false,
-      "publicadaEm": "2026-09-21",
-      "titulo": "Alya ganha trailer da segunda temporada, prevista para 2027",
-      "resumo": "A nova prévia de Alya Sometimes Hides Her Feelings in Russian acompanha mudanças na direção e no roteiro. Após o adiamento, a continuação segue prevista para 2027, ainda sem dia ou mês de estreia confirmado.",
+      "assunto": "Cinema · Evento no Brasil",
+      "brasil": true,
+      "publicadaEm": "2026-09-22",
+      "titulo": "Billy Boyd é confirmado na CCXP26 para celebrar O Senhor dos Anéis",
+      "resumo": "O intérprete de Pippin participará do evento em São Paulo nos dias 3 e 4 de dezembro. Ele se junta a Elijah Wood e Dominic Monaghan na programação dedicada aos 25 anos da trilogia.",
       "fonte": "Omelete",
       "idioma": "PT",
-      "url": "https://www.omelete.com.br/mangas-animes/alya-sometimes-hides-her-feelings-in-russian-2-temporada-trailer-previsao-de-estreia",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "url": "https://www.omelete.com.br/ccxp/ccxp26-billy-boyd-pippin-o-senhor-dos-aneis-fellowship-forever",
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "control-resonant",
@@ -185,24 +188,24 @@
       "fonte": "PlayStation Blog",
       "idioma": "EN",
       "url": "https://blog.playstation.com/2026/09/18/control-resonant-how-remedy-is-going-bigger-and-weirder-with-its-paranatural-horror-sequel-on-september-24/",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
-      "id": "netflix-semana",
+      "id": "gollum-imagens-oficiais",
       "secao": "geek",
-      "assunto": "Filmes · Séries",
+      "assunto": "Filmes",
       "brasil": false,
-      "publicadaEm": "2026-09-18",
-      "titulo": "Netflix destaca Best of the Best e novidades de séries na semana",
-      "resumo": "O boletim do Tudum apresenta o filme ambientado numa equipe de dança universitária e outros lançamentos. A lista é internacional; a disponibilidade no Brasil pode variar.",
-      "fonte": "Netflix Tudum",
-      "idioma": "EN",
-      "url": "https://www.netflix.com/tudum/articles/what-to-watch-on-netflix-september-18-2026",
-      "verificadaEm": "2026-09-22T11:17:34.534Z"
+      "publicadaEm": "2026-09-23",
+      "titulo": "Novo filme de O Senhor dos Anéis ganha primeiras imagens oficiais",
+      "resumo": "A Warner divulgou imagens de A Caçada por Gollum, dirigido por Andy Serkis. A reportagem mostra o retorno de Elijah Wood como Frodo e situa o projeto na franquia; a estreia é prevista para dezembro de 2027.",
+      "fonte": "Omelete",
+      "idioma": "PT",
+      "url": "https://www.omelete.com.br/filmes/o-senhor-dos-aneis-a-cacada-por-gollum-ganha-primeiras-imagens-oficiais-com-frodo-e-mais",
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "secao": "musica",
-      "verificadaEm": "2026-09-23T00:16:05Z",
+      "verificadaEm": "2026-09-23T12:01:08.875Z",
       "id": "pitty-sobremesa",
       "assunto": "Rock · Bahia",
       "brasil": true,
@@ -215,7 +218,7 @@
     },
     {
       "secao": "musica",
-      "verificadaEm": "2026-09-23T00:16:05Z",
+      "verificadaEm": "2026-09-23T12:01:08.875Z",
       "id": "salvador-batalhas-setembro",
       "assunto": "Rap e trap · Salvador",
       "brasil": true,
@@ -228,21 +231,21 @@
       "url": "https://www.salvadordabahia.com/eventos/festival-da-primavera-2026-confira-programacao/"
     },
     {
+      "id": "peter-hook-sao-paulo-2027",
       "secao": "musica",
-      "verificadaEm": "2026-09-23T00:16:05Z",
-      "id": "foundry-brasil-2026",
-      "assunto": "Pop e cena independente · Brasil",
+      "assunto": "Rock e pós-punk · Show no Brasil",
       "brasil": true,
-      "publicadaEm": "2026-09-16",
-      "titulo": "José Jr e Mariasss entram na nova seleção do Foundry",
-      "resumo": "O programa do YouTube incluiu dois nomes brasileiros entre 16 novos artistas de oito países. José Jr aproxima folk, rock e música brasileira; o trio Mariasss trabalha com pop. Os selecionados recebem apoio ao desenvolvimento de suas carreiras independentes.",
-      "fonte": "YouTube Blog",
-      "idioma": "EN",
-      "url": "https://blog.youtube/creator-and-artist-stories/new-artists-youtube-music-foundry-class-2026/"
+      "publicadaEm": "2026-09-22",
+      "titulo": "Peter Hook anuncia show em São Paulo com dois discos do Joy Division",
+      "resumo": "O músico se apresentará com The Light em 9 de março de 2027. O repertório anunciado reúne os álbuns Unknown Pleasures e Closer na íntegra, em uma passagem brasileira da turnê dedicada à banda.",
+      "fonte": "Billboard Brasil",
+      "idioma": "PT",
+      "url": "https://billboard.com.br/peter-hook-joy-division-sp-2027/",
+      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "secao": "musica",
-      "verificadaEm": "2026-09-23T00:16:05Z",
+      "verificadaEm": "2026-09-23T12:01:08.875Z",
       "id": "taylor-patient-zero",
       "assunto": "Pop · Lançamento",
       "brasil": false,
@@ -255,7 +258,7 @@
     },
     {
       "secao": "musica",
-      "verificadaEm": "2026-09-23T00:16:05Z",
+      "verificadaEm": "2026-09-23T12:01:08.875Z",
       "id": "chvrches-roses",
       "assunto": "Indie pop e rock",
       "brasil": false,
@@ -280,7 +283,7 @@
       "observacao": "Agenda anunciada pelo governo chinês.",
       "url": "https://www.reuters.com/world/china/chinas-xi-visit-us-september-23-25-2026-09-21/",
       "fonte": "Reuters",
-      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "cidade-batalhas-23",
@@ -294,7 +297,7 @@
       "url": "https://www.salvadordabahia.com/eventos/festival-da-primavera-2026-confira-programacao/",
       "fonte": "Salvador da Bahia · Prefeitura",
       "secao": "Música",
-      "confirmadoEm": "2026-09-23T00:16:05Z"
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "control-ps5",
@@ -308,7 +311,7 @@
       "observacao": "Data anunciada no blog oficial; horário não informado.",
       "url": "https://blog.playstation.com/2026/09/18/control-resonant-how-remedy-is-going-bigger-and-weirder-with-its-paranatural-horror-sequel-on-september-24/",
       "fonte": "PlayStation Blog",
-      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "taylor-single-25",
@@ -322,7 +325,21 @@
       "url": "https://www.goodmorningamerica.com/culture/story/taylor-swift-announces-new-single-patient-zero-136657611",
       "fonte": "ABC · Good Morning America",
       "secao": "Música",
-      "confirmadoEm": "2026-09-23T00:16:05Z"
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
+    },
+    {
+      "id": "restituicao-ir-setembro",
+      "titulo": "Pagamento do lote residual do IR · setembro",
+      "secao": "Trending",
+      "brasil": true,
+      "inicio": "2026-09-30",
+      "fim": "2026-09-30",
+      "horario": null,
+      "local": "Brasil",
+      "observacao": "Crédito previsto ao longo do dia, segundo comunicado da Receita Federal.",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-quarta-feira-23",
+      "fonte": "Receita Federal",
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "batalha-rap-30",
@@ -336,7 +353,7 @@
       "url": "https://www.salvadordabahia.com/eventos/festival-da-primavera-2026-confira-programacao/",
       "fonte": "Salvador da Bahia · Prefeitura",
       "secao": "Música",
-      "confirmadoEm": "2026-09-23T00:16:05Z"
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "eleicoes",
@@ -349,7 +366,7 @@
       "local": "Brasil",
       "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/faltam-13-dias-saiba-como-justificar-a-ausencia-nas-eleicoes-2026",
       "fonte": "TSE",
-      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "nycc",
@@ -362,7 +379,7 @@
       "local": "Javits Center · Nova York",
       "url": "https://www.newyorkcomiccon.com/",
       "fonte": "NYCC",
-      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "palmeiras-bahia",
@@ -371,11 +388,12 @@
       "brasil": true,
       "inicio": "2026-10-08",
       "fim": "2026-10-08",
-      "horario": "21h30",
-      "local": "Brasileirão · 29ª rodada",
-      "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/20/athletico-x-bahia.ghtm",
-      "fonte": "UOL Esporte",
-      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+      "horario": null,
+      "local": "São Paulo · Brasileirão",
+      "url": "https://www.esporteclubebahia.com.br/reapresentacao-12/",
+      "fonte": "Esporte Clube Bahia",
+      "confirmadoEm": "2026-09-23T12:01:08.875Z",
+      "observacao": "Data confirmada pelo clube; horário não informado na fonte consultada nesta edição."
     },
     {
       "id": "bgs",
@@ -387,9 +405,9 @@
       "horario": null,
       "local": "Distrito Anhembi · São Paulo",
       "observacao": "9/10 tem acesso para imprensa e modalidades específicas; ingressos comuns de 10 a 12/10.",
-      "url": "https://www.brasilgameshow.com.br/",
+      "url": "https://www.brasilgameshow.com.br/ingressos/",
       "fonte": "BGS",
-      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "pitty-album-16",
@@ -403,7 +421,7 @@
       "url": "https://www.bahianoticias.com.br/holofote/noticia/85628-pitty-divulga-sobremesa-primeira-cancao-do-disco-que-cantora-lancara-em-outubro",
       "fonte": "Bahia Notícias",
       "secao": "Música",
-      "confirmadoEm": "2026-09-23T00:16:05Z"
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "pitty-turne-17",
@@ -417,7 +435,7 @@
       "url": "https://www.bahianoticias.com.br/holofote/noticia/85628-pitty-divulga-sobremesa-primeira-cancao-do-disco-que-cantora-lancara-em-outubro",
       "fonte": "Bahia Notícias",
       "secao": "Música",
-      "confirmadoEm": "2026-09-23T00:16:05Z"
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "one-piece-cinemas",
@@ -431,7 +449,7 @@
       "observacao": "Versão dublada; sessões variam por cinema.",
       "url": "https://www.omelete.com.br/mangas-animes/one-piece-aventura-na-ilha-espiral-poster-trailer",
       "fonte": "Omelete",
-      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "ccxp",
@@ -442,9 +460,24 @@
       "fim": "2026-12-06",
       "horario": null,
       "local": "São Paulo Expo · São Paulo",
-      "url": "https://ccxp.com.br/",
-      "fonte": "CCXP",
-      "confirmadoEm": "2026-09-22T11:17:34.534Z"
+      "url": "https://www.omelete.com.br/ccxp/ccxp26-billy-boyd-pippin-o-senhor-dos-aneis-fellowship-forever",
+      "fonte": "Omelete",
+      "confirmadoEm": "2026-09-23T12:01:08.875Z",
+      "observacao": "Billy Boyd confirmado nos dias 3 e 4 de dezembro; horários específicos não informados."
+    },
+    {
+      "id": "peter-hook-sp-2027",
+      "titulo": "Peter Hook and The Light · São Paulo",
+      "secao": "Música",
+      "brasil": true,
+      "inicio": "2027-03-09",
+      "fim": "2027-03-09",
+      "horario": null,
+      "local": "São Paulo",
+      "observacao": "Show com Unknown Pleasures e Closer; horário não confirmado nesta edição.",
+      "url": "https://billboard.com.br/peter-hook-joy-division-sp-2027/",
+      "fonte": "Billboard Brasil",
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     }
   ]
 }
