@@ -1,6 +1,6 @@
 {
-  "edicao": "2026-09-23",
-  "atualizadaEm": "2026-09-23T17:26:08.872Z",
+  "edicao": "2026-09-24",
+  "atualizadaEm": "2026-09-24T12:04:54.259Z",
   "criterioTrending": "Seleção editorial de acontecimentos recentes; não é um ranking medido de redes sociais.",
   "noticias": [
     {
@@ -14,7 +14,7 @@
       "fonte": "Esporte Clube Bahia",
       "idioma": "PT",
       "url": "https://www.esporteclubebahia.com.br/tatico-e-tecnico-2/",
-      "verificadaEm": "2026-09-23T17:26:08.872Z"
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "yanne-selecao",
@@ -27,7 +27,7 @@
       "fonte": "Esporte Clube Bahia",
       "idioma": "PT",
       "url": "https://www.esporteclubebahia.com.br/convocada-3/",
-      "verificadaEm": "2026-09-23T17:26:08.872Z"
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "palmeiras-data-fifa",
@@ -40,21 +40,8 @@
       "fonte": "ge",
       "idioma": "PT",
       "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/09/22/recuperar-as-pernas-palmeiras-cria-mantra-de-16-finais-e-conta-com-data-fifa-para-ganhar-folego.ghtml",
-      "verificadaEm": "2026-09-23T12:01:08.875Z",
+      "verificadaEm": "2026-09-24T12:04:54.259Z",
       "atualizadaEm": "2026-09-22"
-    },
-    {
-      "id": "barcelona-raphinha-yamal",
-      "secao": "futebol",
-      "assunto": "La Liga · Brasileiros no exterior",
-      "brasil": true,
-      "publicadaEm": "2026-09-22",
-      "titulo": "Barcelona destaca o início de temporada de Raphinha e Lamine Yamal",
-      "resumo": "O balanço do clube registra 12 gols do brasileiro Raphinha e sete de Lamine Yamal nas primeiras sete rodadas da liga espanhola. A reportagem analisa como a dupla contribui para o ataque do Barcelona.",
-      "fonte": "FC Barcelona",
-      "idioma": "EN",
-      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4579612/raphinha-and-lamine-yamal-europes-most-productive-duo",
-      "verificadaEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "liverpool-selecoes-setembro",
@@ -67,7 +54,73 @@
       "fonte": "Liverpool FC",
       "idioma": "EN",
       "url": "https://www.liverpoolfc.com/news/internationals-guide-when-and-where-liverpool-players-are-action",
-      "verificadaEm": "2026-09-23T17:26:08.872Z"
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "juventus-multa-homenagem",
+      "secao": "futebol",
+      "assunto": "Serie A italiana",
+      "brasil": false,
+      "publicadaEm": "2026-09-22",
+      "titulo": "Juventus recebe multa por desrespeito a homenagem a Sandro Mazzola",
+      "resumo": "A liga italiana multou o clube em 10 mil euros após parte da torcida interromper o minuto de silêncio antes do jogo com a Atalanta. Em comunicado, a Juventus condenou a falta de respeito durante homenagens.",
+      "fonte": "Reuters",
+      "idioma": "EN",
+      "url": "https://www.reuters.com/sports/soccer/juventus-fined-after-supporters-interrupt-minutes-silence-for-mazzola-2026-09-22/",
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "eleicoes-acessibilidade",
+      "secao": "trending",
+      "assunto": "Cidadania · Acessibilidade",
+      "brasil": true,
+      "publicadaEm": "2026-09-24",
+      "titulo": "Justiça Eleitoral amplia seções acessíveis para as eleições de outubro",
+      "resumo": "Segundo dados do TSE reunidos pela Agência Brasil, as seções principais com acessibilidade passaram de 156 mil em 2022 para 220 mil. A reportagem explica recursos das urnas, como áudio, identificação em Braille e intérprete de Libras.",
+      "fonte": "Agência Brasil",
+      "idioma": "PT",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/conheca-os-recursos-de-acessibilidade-que-ampliam-autonomia-na-votacao",
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "guaiba-alerta-inundacao",
+      "secao": "trending",
+      "assunto": "Meio ambiente · Brasil",
+      "brasil": true,
+      "publicadaEm": "2026-09-23",
+      "titulo": "Porto Alegre emite alerta para risco de inundação nas margens do Guaíba",
+      "resumo": "A Defesa Civil divulgou aviso válido até a manhã de 25 de setembro para o Arquipélago e áreas ribeirinhas do sul da cidade. A reportagem de 23 de setembro relaciona o risco às chuvas no interior gaúcho.",
+      "fonte": "Agência Brasil",
+      "idioma": "PT",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/guaiba-defesa-civil-de-porto-alegre-alerta-para-risco-de-inundacao",
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "xi-chegada-eua",
+      "secao": "trending",
+      "assunto": "Mundo · Diplomacia",
+      "brasil": false,
+      "publicadaEm": "2026-09-23",
+      "titulo": "Xi Jinping chega aos Estados Unidos para encontros com Donald Trump",
+      "resumo": "O presidente chinês desembarcou perto de Washington na quarta-feira, 23, e foi recebido por Trump. A visita de três dias inclui reuniões previstas para quinta-feira; a reportagem descreve a chegada, sem antecipar resultados das negociações.",
+      "fonte": "RTHK",
+      "idioma": "EN",
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1871314-20260924.htm?archive_date=2026-09-24",
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "hubble-duzentas-mil-orbitas",
+      "secao": "trending",
+      "assunto": "Ciência · Espaço",
+      "brasil": false,
+      "publicadaEm": "2026-09-23",
+      "titulo": "NASA apresenta marco de 200 mil órbitas do Hubble e busca por supernova",
+      "resumo": "O telescópio completou a marca em 19 de setembro. Em publicação do dia 23, a NASA explica como observações repetidas procuram uma nova aparição da supernova Athena, cuja luz é desviada por um aglomerado de galáxias.",
+      "fonte": "NASA",
+      "idioma": "EN",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
+      "verificadaEm": "2026-09-24T12:04:54.259Z",
+      "atualizadaEm": "2026-09-23"
     },
     {
       "id": "fazenda-projecao-pib",
@@ -80,61 +133,7 @@
       "fonte": "UOL Economia",
       "idioma": "PT",
       "url": "https://economia.uol.com.br/noticias/redacao/2026/09/22/boletim-macrofiscal-setembro-2026.ghtm",
-      "verificadaEm": "2026-09-23T17:26:08.872Z"
-    },
-    {
-      "id": "tse-chatvote",
-      "secao": "trending",
-      "assunto": "Tecnologia · Serviços eleitorais",
-      "brasil": true,
-      "publicadaEm": "2026-09-22",
-      "atualizadaEm": "2026-09-22",
-      "titulo": "TSE lança ChatVote para esclarecer dúvidas sobre as eleições",
-      "resumo": "O assistente virtual está no portal do tribunal e no e-Título, com informações sobre votação, justificativa e serviços eleitorais. O TSE informa que acompanhará a qualidade das respostas e ressalta que, em caso de divergência, prevalecem suas orientações oficiais.",
-      "fonte": "Tribunal Superior Eleitoral",
-      "idioma": "PT",
-      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-lanca-assistente-virtual-para-ampliar-acesso-a-informacoes-sobre-as-eleicoes-2026",
-      "verificadaEm": "2026-09-23T12:01:08.875Z"
-    },
-    {
-      "id": "receita-restituicao-setembro",
-      "secao": "trending",
-      "assunto": "Serviços · Brasil",
-      "brasil": true,
-      "publicadaEm": "2026-09-21",
-      "titulo": "Receita anuncia consulta ao lote residual do IR para 23 de setembro",
-      "resumo": "A consulta foi programada para as 9h desta quarta-feira, com pagamento em 30 de setembro. Segundo a Receita, o lote reúne 412.186 restituições, incluindo declarações com pendências resolvidas e valores de exercícios anteriores.",
-      "fonte": "Receita Federal",
-      "idioma": "PT",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-quarta-feira-23",
-      "verificadaEm": "2026-09-23T12:01:08.875Z"
-    },
-    {
-      "id": "xi-visita-eua",
-      "secao": "trending",
-      "assunto": "Mundo",
-      "brasil": false,
-      "publicadaEm": "2026-09-21",
-      "titulo": "China anuncia visita de Xi Jinping aos Estados Unidos de 23 a 25 de setembro",
-      "resumo": "Segundo o Ministério das Relações Exteriores chinês, Xi encontrará Donald Trump para discutir relações bilaterais e questões internacionais. A Reuters relata o anúncio; os resultados das conversas ainda não são conhecidos.",
-      "fonte": "Reuters",
-      "idioma": "EN",
-      "url": "https://www.reuters.com/world/china/chinas-xi-visit-us-september-23-25-2026-09-21/",
-      "verificadaEm": "2026-09-23T12:01:08.875Z"
-    },
-    {
-      "id": "perseverance-agua-marte",
-      "secao": "trending",
-      "assunto": "Ciência · Espaço",
-      "brasil": false,
-      "publicadaEm": "2026-09-21",
-      "atualizadaEm": "2026-09-21",
-      "titulo": "Perseverance encontra registros de diferentes episódios de água em Marte",
-      "resumo": "Análises de rochas na cratera Jezero indicam pelo menos três interações com água no passado. O estudo ajuda a reconstruir a história geológica e as condições ambientais do planeta; não representa uma confirmação de vida marciana.",
-      "fonte": "NASA · JPL",
-      "idioma": "EN",
-      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
-      "verificadaEm": "2026-09-23T12:01:08.875Z"
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "yellow-cake-estreia",
@@ -147,33 +146,34 @@
       "fonte": "Omelete",
       "idioma": "PT",
       "url": "https://www.omelete.com.br/filmes/yellow-cake-filme-brasileiro-rejane-faria-tania-maria-data-cinemas-exibicao-internacional",
-      "verificadaEm": "2026-09-23T17:26:08.872Z"
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
     },
     {
-      "id": "star-wars-zero-company-vendas",
+      "id": "habeas-corpus-bastidores",
       "secao": "geek",
-      "assunto": "Jogos",
-      "brasil": false,
+      "assunto": "Séries brasileiras",
+      "brasil": true,
       "publicadaEm": "2026-09-23",
-      "titulo": "Levantamento estima mais de um milhão de cópias vendidas de Star Wars Zero Company",
-      "resumo": "Segundo números da Alinea citados pelo Omelete, o jogo ultrapassou a marca de um milhão de unidades, com predominância das compras no PC. O dado vem de uma estimativa de mercado, não de um balanço oficial da editora.",
+      "titulo": "Marjorie Estiano e Any Gabrielly contam como construíram parceria em Habeas Corpus",
+      "resumo": "Em entrevista, as atrizes falam da preparação e dos ensaios para a série brasileira da Netflix. O drama jurídico acompanha uma professora de Direito e seus alunos na investigação de uma possível condenação injusta.",
       "fonte": "Omelete",
       "idioma": "PT",
-      "url": "https://www.omelete.com.br/games/star-wars-zero-company-passa-1-milhao-de-copias-vendidas-e-reacende-polemica",
-      "verificadaEm": "2026-09-23T17:26:08.872Z"
+      "url": "https://www.omelete.com.br/series-tv/habeas-corpus-marjorie-estiano-e-any-gabrielly-revelam-conexao-nos-bastidores",
+      "verificadaEm": "2026-09-24T12:04:54.259Z",
+      "atualizadaEm": "2026-09-23"
     },
     {
-      "id": "gollum-imagens-oficiais",
+      "id": "avatar-sete-refugios-trailer",
       "secao": "geek",
-      "assunto": "Filmes",
+      "assunto": "Animação · Séries",
       "brasil": false,
       "publicadaEm": "2026-09-23",
-      "titulo": "Novo filme de O Senhor dos Anéis ganha primeiras imagens oficiais",
-      "resumo": "A Warner divulgou imagens de A Caçada por Gollum, dirigido por Andy Serkis. A reportagem mostra o retorno de Elijah Wood como Frodo e situa o projeto na franquia; a estreia é prevista para dezembro de 2027.",
+      "titulo": "Avatar: Os Sete Refúgios ganha trailer antes da estreia em outubro",
+      "resumo": "A nova série da franquia apresentou imagens das gêmeas Pavi e Nisha e das ameaças ao equilíbrio de seu mundo. A reportagem confirma a estreia para 10 de outubro no Paramount+.",
       "fonte": "Omelete",
       "idioma": "PT",
-      "url": "https://www.omelete.com.br/filmes/o-senhor-dos-aneis-a-cacada-por-gollum-ganha-primeiras-imagens-oficiais-com-frodo-e-mais",
-      "verificadaEm": "2026-09-23T12:01:08.875Z"
+      "url": "https://www.omelete.com.br/series-tv/avatar-os-sete-refugios-ganha-novo-trailer-com-mais-detalhes-da-trama-assista",
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "ccxp-billy-boyd",
@@ -186,7 +186,33 @@
       "fonte": "Omelete",
       "idioma": "PT",
       "url": "https://www.omelete.com.br/ccxp/ccxp26-billy-boyd-pippin-o-senhor-dos-aneis-fellowship-forever",
-      "verificadaEm": "2026-09-23T12:01:08.875Z"
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "fading-echo-ps5",
+      "secao": "geek",
+      "assunto": "Jogos · Lançamento",
+      "brasil": false,
+      "publicadaEm": "2026-09-22",
+      "titulo": "Fading Echo chega ao PS5 com exploração baseada em água e realidades alternativas",
+      "resumo": "O estúdio Emeteria anunciou o lançamento em 22 de setembro. Seu codiretor explica como transformações da protagonista e interações entre elementos ajudam a explorar cenários e resolver quebra-cabeças nessa aventura para um jogador.",
+      "fonte": "PlayStation Blog · Emeteria",
+      "idioma": "EN",
+      "url": "https://blog.playstation.com/2026/09/22/fading-echo-makes-a-splash-on-playstation-5-today/",
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "nickelback-rock-airplay",
+      "secao": "musica",
+      "assunto": "Rock · Paradas",
+      "brasil": false,
+      "publicadaEm": "2026-09-24",
+      "titulo": "Nickelback retorna ao primeiro lugar da Mainstream Rock Airplay",
+      "resumo": "Rattle the Cage, parceria com John 5, lidera a parada de rádio da Billboard datada de 26 de setembro. É o nono primeiro lugar da banda nesse ranking e seu primeiro desde 2014.",
+      "fonte": "Billboard Brasil",
+      "idioma": "PT",
+      "url": "https://billboard.com.br/nickelback-rattle-the-cage-12-anos/",
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "sangue-novo-salvador",
@@ -199,7 +225,7 @@
       "fonte": "Alô Alô Bahia",
       "idioma": "PT",
       "url": "https://aloalobahia.com/noticias/2026/09/23/festival-sangue-novo-2026-reune-ceu-rachel-reis-zaynara-e-mais-10-atracoes-em-salvador-veja-line-up/",
-      "verificadaEm": "2026-09-23T17:26:08.872Z"
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "coquetel-molotov-programacao",
@@ -212,46 +238,34 @@
       "fonte": "Billboard Brasil",
       "idioma": "PT",
       "url": "https://billboard.com.br/coquetel-molotov-2027-confirmados-line-up/",
-      "verificadaEm": "2026-09-23T17:26:08.872Z"
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
     },
     {
-      "id": "oasis-turne-2027",
+      "id": "seal-turne-brasil",
       "secao": "musica",
-      "assunto": "Rock",
-      "brasil": false,
+      "assunto": "Pop · Shows no Brasil",
+      "brasil": true,
       "publicadaEm": "2026-09-23",
-      "titulo": "Oasis amplia a turnê de 2027 com novas apresentações na Europa",
-      "resumo": "A banda acrescentou shows em Roma, Munique e Knebworth à turnê Live ’27. A programação anunciada também passa pelos Estados Unidos; a notícia não traz novas datas no Brasil.",
+      "titulo": "Seal acrescenta Curitiba e Porto Alegre à turnê brasileira",
+      "resumo": "As novas apresentações estão marcadas para 1º de dezembro, no Igloo Super Hall, e 2 de dezembro, no Auditório Araújo Vianna. Elas se somam aos shows já anunciados no Rio de Janeiro e em São Paulo.",
       "fonte": "Billboard Brasil",
       "idioma": "PT",
-      "url": "https://billboard.com.br/oasis-novos-shows-turne-live-27/",
-      "verificadaEm": "2026-09-23T17:26:08.872Z"
+      "url": "https://billboard.com.br/seal-shows-curitiba-porto-alegre-2026/",
+      "verificadaEm": "2026-09-24T12:04:54.259Z"
     },
     {
+      "id": "taylor-showgirl-encore",
       "secao": "musica",
-      "verificadaEm": "2026-09-23T12:01:08.875Z",
-      "id": "taylor-patient-zero",
       "assunto": "Pop · Lançamento",
       "brasil": false,
-      "publicadaEm": "2026-09-22",
-      "titulo": "Taylor Swift anuncia single para 25 de setembro",
-      "resumo": "A cantora confirmou “Patient Zero” para esta sexta-feira após divulgar uma contagem regressiva. A reportagem reúne o anúncio publicado por Swift e situa o lançamento na sequência de seus trabalhos recentes.",
-      "fonte": "ABC · Good Morning America",
-      "idioma": "EN",
-      "url": "https://www.goodmorningamerica.com/culture/story/taylor-swift-announces-new-single-patient-zero-136657611"
-    },
-    {
-      "secao": "musica",
-      "verificadaEm": "2026-09-23T12:01:08.875Z",
-      "id": "chvrches-roses",
-      "assunto": "Indie pop e rock",
-      "brasil": false,
-      "publicadaEm": "2026-09-22",
-      "titulo": "CHVRCHES lança “Roses” com guitarras em destaque",
-      "resumo": "O trio escocês apresentou uma nova faixa após um período dedicado também a projetos individuais. Na leitura do Stereogum, o lançamento destaca mais as guitarras; Lauren Mayberry afirma que o grupo buscou explorar outros caminhos ao voltar a compor.",
-      "fonte": "Stereogum",
-      "idioma": "EN",
-      "url": "https://stereogum.com/2512236/chvrches-roses/music"
+      "publicadaEm": "2026-09-23",
+      "titulo": "Taylor Swift anuncia edição ampliada de The Life of a Showgirl",
+      "resumo": "The Encore chega em 25 de setembro com quatro músicas inéditas. Segundo o anúncio da cantora, as faixas surgiram durante uma viagem à Suécia com Max Martin e Shellback; o single Patient Zero também foi anunciado para a mesma data.",
+      "fonte": "Omelete",
+      "idioma": "PT",
+      "url": "https://www.omelete.com.br/musica/taylor-swift-anuncia-the-life-of-a-showgirl-the-encore-com-novas-musicas",
+      "verificadaEm": "2026-09-24T12:04:54.259Z",
+      "atualizadaEm": "2026-09-23"
     }
   ],
   "eventos": [
@@ -264,24 +278,10 @@
       "fim": "2026-09-25",
       "horario": null,
       "local": "Estados Unidos",
-      "observacao": "Agenda anunciada pelo governo chinês.",
-      "url": "https://www.reuters.com/world/china/chinas-xi-visit-us-september-23-25-2026-09-21/",
-      "fonte": "Reuters",
-      "confirmadoEm": "2026-09-23T12:01:08.875Z"
-    },
-    {
-      "id": "cidade-batalhas-23",
-      "titulo": "A Cidade das Batalhas · rap e trap",
-      "brasil": true,
-      "inicio": "2026-09-23",
-      "fim": "2026-09-23",
-      "horario": "14h30",
-      "local": "Cidade da Música da Bahia · Salvador",
-      "observacao": "Programação do Festival da Primavera confirmada pela Prefeitura.",
-      "url": "https://www.salvadordabahia.com/eventos/festival-da-primavera-2026-confira-programacao/",
-      "fonte": "Salvador da Bahia · Prefeitura",
-      "secao": "Música",
-      "confirmadoEm": "2026-09-23T12:01:08.875Z"
+      "observacao": "Visita iniciada em 23 de setembro; reuniões previstas para o dia 24.",
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1871314-20260924.htm?archive_date=2026-09-24",
+      "fonte": "RTHK",
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "control-ps5",
@@ -295,21 +295,49 @@
       "observacao": "Data anunciada no blog oficial; horário não informado.",
       "url": "https://blog.playstation.com/2026/09/18/control-resonant-how-remedy-is-going-bigger-and-weirder-with-its-paranatural-horror-sequel-on-september-24/",
       "fonte": "PlayStation Blog",
-      "confirmadoEm": "2026-09-23T12:01:08.875Z"
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "taylor-single-25",
-      "titulo": "Taylor Swift · lançamento de “Patient Zero”",
+      "titulo": "Taylor Swift · Patient Zero e The Encore",
       "brasil": false,
       "inicio": "2026-09-25",
       "fim": "2026-09-25",
       "horario": null,
       "local": "Lançamento musical",
-      "observacao": "Data anunciada pela artista; horário não confirmado nesta edição.",
-      "url": "https://www.goodmorningamerica.com/culture/story/taylor-swift-announces-new-single-patient-zero-136657611",
-      "fonte": "ABC · Good Morning America",
+      "observacao": "Single e edição ampliada anunciados para a mesma data; horário não confirmado.",
+      "url": "https://www.omelete.com.br/musica/taylor-swift-anuncia-the-life-of-a-showgirl-the-encore-com-novas-musicas",
+      "fonte": "Omelete",
       "secao": "Música",
-      "confirmadoEm": "2026-09-23T12:01:08.875Z"
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "tinashe-popstar",
+      "titulo": "Tinashe · lançamento de Popstar",
+      "secao": "Música",
+      "brasil": false,
+      "inicio": "2026-09-25",
+      "fim": "2026-09-25",
+      "horario": null,
+      "local": "Lançamento musical",
+      "observacao": "Lançamento confirmado para 25 de setembro; horário não informado.",
+      "url": "https://billboard.com.br/tinashe-popstar-fosse-album-divertido-e-livre/",
+      "fonte": "Billboard Brasil",
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "feira-noise-2026",
+      "titulo": "Feira Noise Festival",
+      "secao": "Música",
+      "brasil": true,
+      "inicio": "2026-09-26",
+      "fim": "2026-09-27",
+      "horario": "14h",
+      "local": "Ária Hall · Feira de Santana",
+      "observacao": "Datas e local confirmados na página do evento.",
+      "url": "https://bilhetify.com.br/e/feira-noise-festival",
+      "fonte": "Feira Noise · Bilhetify",
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "restituicao-ir-setembro",
@@ -337,7 +365,7 @@
       "url": "https://www.salvadordabahia.com/eventos/festival-da-primavera-2026-confira-programacao/",
       "fonte": "Salvador da Bahia · Prefeitura",
       "secao": "Música",
-      "confirmadoEm": "2026-09-23T12:01:08.875Z"
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "eleicoes",
@@ -376,7 +404,7 @@
       "local": "São Paulo · Brasileirão",
       "url": "https://www.esporteclubebahia.com.br/tatico-e-tecnico-2/",
       "fonte": "Esporte Clube Bahia",
-      "confirmadoEm": "2026-09-23T17:26:08.872Z",
+      "confirmadoEm": "2026-09-24T12:04:54.259Z",
       "observacao": "Data confirmada pelo clube; horário não informado na fonte consultada nesta edição."
     },
     {
@@ -392,6 +420,48 @@
       "url": "https://www.brasilgameshow.com.br/ingressos/",
       "fonte": "BGS",
       "confirmadoEm": "2026-09-23T12:01:08.875Z"
+    },
+    {
+      "id": "avatar-sete-refugios",
+      "titulo": "Avatar: Os Sete Refúgios · estreia",
+      "secao": "Geek",
+      "brasil": false,
+      "inicio": "2026-10-10",
+      "fim": "2026-10-10",
+      "horario": null,
+      "local": "Paramount+",
+      "observacao": "Data informada na reportagem; horário não divulgado.",
+      "url": "https://www.omelete.com.br/series-tv/avatar-os-sete-refugios-ganha-novo-trailer-com-mais-detalhes-da-trama-assista",
+      "fonte": "Omelete",
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "brasil-argentina-feminino-10",
+      "titulo": "Brasil × Argentina · seleção feminina",
+      "secao": "Futebol",
+      "brasil": true,
+      "inicio": "2026-10-10",
+      "fim": "2026-10-10",
+      "horario": null,
+      "local": "Porto Alegre",
+      "observacao": "Amistoso informado na convocação de Yanne; horário não divulgado.",
+      "url": "https://www.esporteclubebahia.com.br/convocada-3/",
+      "fonte": "Esporte Clube Bahia",
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "brasil-argentina-feminino-13",
+      "titulo": "Brasil × Argentina · seleção feminina",
+      "secao": "Futebol",
+      "brasil": true,
+      "inicio": "2026-10-13",
+      "fim": "2026-10-13",
+      "horario": null,
+      "local": "Arena Pernambuco",
+      "observacao": "Segundo amistoso informado na convocação de Yanne; horário não divulgado.",
+      "url": "https://www.esporteclubebahia.com.br/convocada-3/",
+      "fonte": "Esporte Clube Bahia",
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "pitty-album-16",
@@ -432,7 +502,7 @@
       "local": "Trapiche Barnabé · Salvador",
       "url": "https://aloalobahia.com/noticias/2026/09/23/festival-sangue-novo-2026-reune-ceu-rachel-reis-zaynara-e-mais-10-atracoes-em-salvador-veja-line-up/",
       "fonte": "Alô Alô Bahia",
-      "confirmadoEm": "2026-09-23T17:26:08.872Z"
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "one-piece-cinemas",
@@ -459,7 +529,7 @@
       "local": "Cinemas brasileiros",
       "url": "https://www.omelete.com.br/filmes/yellow-cake-filme-brasileiro-rejane-faria-tania-maria-data-cinemas-exibicao-internacional",
       "fonte": "Omelete",
-      "confirmadoEm": "2026-09-23T17:26:08.872Z"
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "coquetel-molotov-2026",
@@ -472,7 +542,35 @@
       "local": "Campus da UFPE · Recife",
       "url": "https://billboard.com.br/coquetel-molotov-2027-confirmados-line-up/",
       "fonte": "Billboard Brasil",
-      "confirmadoEm": "2026-09-23T17:26:08.872Z"
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "seal-curitiba",
+      "titulo": "Seal · Curitiba",
+      "secao": "Música",
+      "brasil": true,
+      "inicio": "2026-12-01",
+      "fim": "2026-12-01",
+      "horario": null,
+      "local": "Igloo Super Hall · Curitiba",
+      "observacao": "Nova data da turnê brasileira; horário não informado.",
+      "url": "https://billboard.com.br/seal-shows-curitiba-porto-alegre-2026/",
+      "fonte": "Billboard Brasil",
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "seal-porto-alegre",
+      "titulo": "Seal · Porto Alegre",
+      "secao": "Música",
+      "brasil": true,
+      "inicio": "2026-12-02",
+      "fim": "2026-12-02",
+      "horario": null,
+      "local": "Auditório Araújo Vianna · Porto Alegre",
+      "observacao": "Nova data da turnê brasileira; horário não informado.",
+      "url": "https://billboard.com.br/seal-shows-curitiba-porto-alegre-2026/",
+      "fonte": "Billboard Brasil",
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "ccxp",
@@ -485,7 +583,7 @@
       "local": "São Paulo Expo · São Paulo",
       "url": "https://www.omelete.com.br/ccxp/ccxp26-billy-boyd-pippin-o-senhor-dos-aneis-fellowship-forever",
       "fonte": "Omelete",
-      "confirmadoEm": "2026-09-23T12:01:08.875Z",
+      "confirmadoEm": "2026-09-24T12:04:54.259Z",
       "observacao": "Billy Boyd confirmado nos dias 3 e 4 de dezembro; horários específicos não informados."
     },
     {
