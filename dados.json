@@ -1,8 +1,21 @@
 {
-  "edicao": "2026-09-27",
-  "atualizadaEm": "2026-09-27T11:50:17.402Z",
+  "edicao": "2026-09-28",
+  "atualizadaEm": "2026-09-28T11:55:03.273Z",
   "criterioTrending": "Seleção editorial de acontecimentos recentes; não é um ranking medido de redes sociais.",
   "noticias": [
+    {
+      "id": "bahia-galbes-taca",
+      "secao": "futebol",
+      "assunto": "Base · Bahia",
+      "brasil": true,
+      "publicadaEm": "2026-09-27",
+      "titulo": "Técnico do Bahia valoriza maturidade na conquista regional",
+      "resumo": "Leonardo Galbes destacou a atuação do sub-20 na vitória sobre o Fortaleza e o apoio recebido em Feira de Santana. Após conquistar a Copa do Nordeste da categoria, a equipe se prepara para enfrentar o Botafogo pela Copa do Brasil em 8 de outubro.",
+      "fonte": "Esporte Clube Bahia",
+      "idioma": "PT",
+      "url": "https://www.esporteclubebahia.com.br/mais-uma-taca/",
+      "verificadaEm": "2026-09-28T11:55:03.273Z"
+    },
     {
       "id": "bahia-nordeste-sub20",
       "secao": "futebol",
@@ -41,6 +54,32 @@
       "idioma": "EN",
       "url": "https://www.psg.fr/en/content/les-bleus-secure-the-win-in-tuerkiye-as-dembele-starts-for-france-uefa-nations-league-psg-international-2026",
       "verificadaEm": "2026-09-27T11:50:17.402Z"
+    },
+    {
+      "id": "eleicoes-ia-reportagem",
+      "secao": "trending",
+      "assunto": "Tecnologia · eleições",
+      "brasil": true,
+      "publicadaEm": "2026-09-28",
+      "titulo": "Reportagem discute o impacto da inteligência artificial nas eleições",
+      "resumo": "A TV Brasil reúne especialistas para explicar as regras sobre conteúdo eleitoral produzido por IA e os riscos de desinformação. A legislação exige que o uso da tecnologia seja informado de modo claro, e responsabiliza quem publica o material.",
+      "fonte": "Agência Brasil",
+      "idioma": "PT",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/eleicao-e-inteligencia-artificial-e-o-tema-do-caminhos-da-reportagem",
+      "verificadaEm": "2026-09-28T11:55:03.273Z"
+    },
+    {
+      "id": "bolsa-familia-nis8",
+      "secao": "trending",
+      "assunto": "Serviço público",
+      "brasil": true,
+      "publicadaEm": "2026-09-28",
+      "titulo": "Bolsa Família paga parcela a beneficiários com NIS final 8",
+      "resumo": "A Caixa libera nesta segunda-feira a parcela de setembro para esse grupo. O benefício médio informado é de R$ 678,18; moradores de municípios em situação de emergência já receberam o crédito de forma unificada no dia 17.",
+      "fonte": "Agência Brasil",
+      "idioma": "PT",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/beneficiarios-com-nis-de-final-8-recebem-bolsa-familia-de-setembro",
+      "verificadaEm": "2026-09-28T11:55:03.273Z"
     },
     {
       "id": "inmet-outubro",
@@ -82,6 +121,19 @@
       "verificadaEm": "2026-09-27T11:50:17.402Z"
     },
     {
+      "id": "vingadores-venda-28",
+      "secao": "geek",
+      "assunto": "Cinema · Brasil",
+      "brasil": true,
+      "publicadaEm": "2026-09-28",
+      "titulo": "Pré-venda de Vingadores começa no Brasil com relatos de instabilidade",
+      "resumo": "As vendas para sessões Infinity Vision começaram nesta segunda-feira. Usuários relataram dificuldades para concluir pedidos, mas não há estimativa de quantas pessoas foram afetadas. A Disney ainda deve anunciar a abertura das vendas para salas tradicionais.",
+      "fonte": "Omelete",
+      "idioma": "PT",
+      "url": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-comeca-venda-de-ingressos-usuarios-relatam-problemas",
+      "verificadaEm": "2026-09-28T11:55:03.273Z"
+    },
+    {
       "id": "depois-impacto-rio",
       "secao": "geek",
       "assunto": "Cinema brasileiro",
@@ -92,19 +144,6 @@
       "fonte": "Omelete",
       "idioma": "PT",
       "url": "https://www.omelete.com.br/filmes/depois-do-impacto-coritiba-crocodiles-festival-rio-nfl",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
-    },
-    {
-      "id": "vingadores-prevenda-28",
-      "secao": "geek",
-      "assunto": "Cinema · Brasil",
-      "brasil": true,
-      "publicadaEm": "2026-09-25",
-      "titulo": "Marvel confirma pré-venda de Doutor Destino para 28 de setembro",
-      "resumo": "O anúncio mais recente confirma a abertura para salas Infinity Vision no Brasil. A reportagem registra mudanças em relação às datas divulgadas anteriormente; a confirmação atual se refere especificamente a esse formato.",
-      "fonte": "Omelete",
-      "idioma": "PT",
-      "url": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-pre-venda-ingressos-brasil",
       "verificadaEm": "2026-09-27T11:50:17.402Z"
     },
     {
@@ -121,17 +160,56 @@
       "verificadaEm": "2026-09-27T11:50:17.402Z"
     },
     {
-      "id": "ace-combat-review",
+      "id": "star-wars-watts",
       "secao": "geek",
-      "assunto": "Jogos · crítica",
+      "assunto": "Cinema",
       "brasil": false,
-      "publicadaEm": "2026-09-25",
-      "titulo": "Análise de Ace Combat 8 destaca campanha e combate aéreo",
-      "resumo": "Na avaliação do Omelete, Wings of Theve combina uma campanha ambiciosa com a jogabilidade característica da série. O texto também ressalva que os testes do multiplayer ocorreram antes do lançamento, previsto para 2 de outubro.",
+      "publicadaEm": "2026-09-26",
+      "titulo": "Jon Watts é escolhido para dirigir novo filme de Star Wars",
+      "resumo": "Segundo o The Hollywood Reporter, o diretor trabalhará em um roteiro de Simon Kinberg, apontado como começo de uma nova trilogia. O projeto ainda não tem título, história ou data de estreia divulgados, e sua posição na cronologia não foi confirmada.",
       "fonte": "Omelete",
       "idioma": "PT",
-      "url": "https://www.omelete.com.br/games/criticas/ace-combat-8-wings-of-theve-eleva-a-franquia-a-novos-ares-review",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
+      "url": "https://www.omelete.com.br/filmes/star-wars-x-jon-watts-diretor-confirmado",
+      "verificadaEm": "2026-09-28T11:55:03.273Z"
+    },
+    {
+      "id": "salvador-musica-cidade",
+      "secao": "musica",
+      "assunto": "Eventos · Bahia",
+      "brasil": true,
+      "publicadaEm": "2026-09-27",
+      "titulo": "Salvador terá apresentações gratuitas no Dia Internacional da Música",
+      "resumo": "O projeto Música Ocupa a Cidade levará artistas e grupos locais a diferentes bairros e pontos turísticos em 1º de outubro. A programação começa às 8h e termina às 20h, no Forte de Santa Maria, com Luciano Calazans e o Bando do Maestro.",
+      "fonte": "Alô Alô Bahia",
+      "idioma": "PT",
+      "url": "https://aloalobahia.com/noticias/2026/09/27/salvador-tera-shows-gratuitos-em-varios-bairros-no-dia-internacional-da-musica/",
+      "verificadaEm": "2026-09-28T11:55:03.273Z"
+    },
+    {
+      "id": "luedji-bem-brasil",
+      "secao": "musica",
+      "assunto": "Pop · Bahia",
+      "brasil": true,
+      "publicadaEm": "2026-09-27",
+      "titulo": "Luedji Luna reúne 7,5 mil pessoas no Bem Brasil",
+      "resumo": "A cantora baiana apresentou em São Paulo a turnê Um Mar Pra Cada Um, Antes Que A Terra Acabe, com participações de Bebé e Zudizilla. O repertório reuniu referências de neo soul, jazz, MPB e hip-hop.",
+      "fonte": "Alô Alô Bahia",
+      "idioma": "PT",
+      "url": "https://aloalobahia.com/noticias/2026/09/27/luedji-luna-reune-75-mil-pessoas-em-show-historico-no-bem-brasil-honra-imensa/",
+      "verificadaEm": "2026-09-28T11:55:03.273Z"
+    },
+    {
+      "id": "nirvana-vma-2026",
+      "secao": "musica",
+      "assunto": "Rock",
+      "brasil": false,
+      "publicadaEm": "2026-09-27",
+      "titulo": "Nirvana recebe homenagem pelo conjunto da obra no VMA",
+      "resumo": "Dave Grohl, Krist Novoselic e Pat Smear receberam o Video Vanguard durante a cerimônia de 2026. O prêmio reconheceu a contribuição dos videoclipes e a influência duradoura da banda no rock.",
+      "fonte": "Billboard Brasil",
+      "idioma": "PT",
+      "url": "https://billboard.com.br/nirvana-video-vanguard-vma-2026/",
+      "verificadaEm": "2026-09-28T11:55:03.273Z"
     },
     {
       "id": "nando-salvador-26",
@@ -158,62 +236,9 @@
       "idioma": "PT",
       "url": "https://billboard.com.br/tasha-e-tracie-serena-venus-dvd-sao-paulo/",
       "verificadaEm": "2026-09-27T11:50:17.402Z"
-    },
-    {
-      "id": "edgar-os-fita-album",
-      "secao": "musica",
-      "assunto": "Rap · Brasil",
-      "brasil": true,
-      "publicadaEm": "2026-09-26",
-      "titulo": "Edgar e Os Fita lançam Faz Frio Mas É Verão",
-      "resumo": "O álbum de dez faixas aproxima rap e música eletrônica, com o Rio de Janeiro como referência. Ana Frango Elétrico, Jup do Bairro, Kiko Dinucci, Crizin da Z.O. e Tantão estão entre as participações anunciadas.",
-      "fonte": "Billboard Brasil",
-      "idioma": "PT",
-      "url": "https://billboard.com.br/edgar-e-os-fita-imaginam-rio-distopico-em-faz-frio-mas-e-verao/",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
-    },
-    {
-      "id": "u2-50-anos",
-      "secao": "musica",
-      "assunto": "Rock",
-      "brasil": false,
-      "publicadaEm": "2026-09-25",
-      "titulo": "U2 celebra 50 anos com apresentação na escola de origem",
-      "resumo": "A banda retornou à Mount Temple, em Dublin, para tocar diante de estudantes e funcionários. A comemoração incluiu a primeira apresentação ao vivo de Silencio, além de músicas de sua trajetória.",
-      "fonte": "Billboard Brasil",
-      "idioma": "PT",
-      "url": "https://billboard.com.br/u2-50-anos-com-show-na-escola-onde-banda-comecou/",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
-    },
-    {
-      "id": "phoebe-on-video",
-      "secao": "musica",
-      "assunto": "Indie rock",
-      "brasil": false,
-      "publicadaEm": "2026-09-25",
-      "titulo": "Phoebe Bridgers lança On Video para a trilha de Primetime",
-      "resumo": "A cantora apresentou uma música inédita composta para o filme da A24. A faixa integra os créditos finais e acompanha sua participação no elenco da produção dirigida por Lance Oppenheim.",
-      "fonte": "Billboard Brasil",
-      "idioma": "PT",
-      "url": "https://billboard.com.br/phoebe-bridgers-atriz-musica-primetime/",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
     }
   ],
   "eventos": [
-    {
-      "id": "feira-noise-2026",
-      "titulo": "Feira Noise Festival",
-      "secao": "Música",
-      "brasil": true,
-      "inicio": "2026-09-26",
-      "fim": "2026-09-27",
-      "horario": "14h",
-      "local": "Ária Hall · Feira de Santana",
-      "observacao": "Datas e local confirmados na página do evento.",
-      "url": "https://bilhetify.com.br/e/feira-noise-festival",
-      "fonte": "Feira Noise · Bilhetify",
-      "confirmadoEm": "2026-09-27T11:50:17.402Z"
-    },
     {
       "id": "vingadores-prevenda",
       "titulo": "Doutor Destino · pré-venda Infinity Vision",
@@ -256,17 +281,18 @@
       "confirmadoEm": "2026-09-24T12:04:54.259Z"
     },
     {
-      "id": "depois-impacto-sessao",
-      "titulo": "Depois do Impacto · Festival do Rio",
-      "secao": "Geek",
+      "id": "salvador-musica-1out",
+      "titulo": "Música Ocupa a Cidade",
+      "secao": "Música",
       "brasil": true,
-      "inicio": "2026-10-02",
-      "fim": "2026-10-02",
-      "horario": "19h",
-      "local": "Cinesystem Belas Artes Botafogo 4 · Rio de Janeiro",
-      "url": "https://www.festivaldorio.com.br/br/filmes/depois-do-impacto-a-historia-do-coritiba-crocodiles",
-      "fonte": "Festival do Rio",
-      "confirmadoEm": "2026-09-27T11:50:17.402Z"
+      "inicio": "2026-10-01",
+      "fim": "2026-10-01",
+      "horario": "8h–20h",
+      "local": "Vários bairros e pontos turísticos · Salvador",
+      "observacao": "Programação gratuita em diferentes locais; o encerramento está previsto para 20h no Forte de Santa Maria.",
+      "url": "https://aloalobahia.com/noticias/2026/09/27/salvador-tera-shows-gratuitos-em-varios-bairros-no-dia-internacional-da-musica/",
+      "fonte": "Alô Alô Bahia",
+      "confirmadoEm": "2026-09-28T11:55:03.273Z"
     },
     {
       "id": "ace-combat-8",
@@ -279,6 +305,19 @@
       "local": "Lançamento de jogo",
       "url": "https://www.omelete.com.br/games/criticas/ace-combat-8-wings-of-theve-eleva-a-franquia-a-novos-ares-review",
       "fonte": "Omelete",
+      "confirmadoEm": "2026-09-27T11:50:17.402Z"
+    },
+    {
+      "id": "depois-impacto-sessao",
+      "titulo": "Depois do Impacto · Festival do Rio",
+      "secao": "Geek",
+      "brasil": true,
+      "inicio": "2026-10-02",
+      "fim": "2026-10-02",
+      "horario": "19h",
+      "local": "Cinesystem Belas Artes Botafogo 4 · Rio de Janeiro",
+      "url": "https://www.festivaldorio.com.br/br/filmes/depois-do-impacto-a-historia-do-coritiba-crocodiles",
+      "fonte": "Festival do Rio",
       "confirmadoEm": "2026-09-27T11:50:17.402Z"
     },
     {
