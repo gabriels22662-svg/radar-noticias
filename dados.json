@@ -1,6 +1,6 @@
 {
-  "edicao": "2026-09-28",
-  "atualizadaEm": "2026-09-28T11:55:03.273Z",
+  "edicao": "2026-09-29",
+  "atualizadaEm": "2026-09-29T11:17:50.000Z",
   "criterioTrending": "Seleção editorial de acontecimentos recentes; não é um ranking medido de redes sociais.",
   "noticias": [
     {
@@ -17,43 +17,69 @@
       "verificadaEm": "2026-09-28T11:55:03.273Z"
     },
     {
-      "id": "bahia-nordeste-sub20",
+      "id": "bahia-olheiros-nordeste",
       "secao": "futebol",
       "assunto": "Base · Bahia",
       "brasil": true,
-      "publicadaEm": "2026-09-26",
-      "titulo": "Bahia conquista a Copa do Nordeste sub-20 em Feira de Santana",
-      "resumo": "Dyllan e Roger marcaram na vitória por 2 a 0 sobre o Fortaleza, na Arena Cajueiro. O clube voltou a vencer o regional da categoria após 25 anos, encerrando a campanha com cinco vitórias, um empate e uma derrota.",
+      "publicadaEm": "2026-09-28",
+      "titulo": "Bahia amplia observação de jovens atletas pelo Nordeste",
+      "resumo": "O clube informou que mais de 22 mil garotos foram avaliados desde 2023 em ações de captação regional. Nesse período, 152 jogadores foram aprovados para integrar as categorias de base do Esquadrão.",
       "fonte": "Esporte Clube Bahia",
       "idioma": "PT",
-      "url": "https://www.esporteclubebahia.com.br/o-nordeste-e-dos-pivetes/",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
+      "url": "https://www.esporteclubebahia.com.br/de-olho-no-nordeste/",
+      "verificadaEm": "2026-09-29T11:17:50.000Z"
     },
     {
-      "id": "sao-paulo-final-feminino",
+      "id": "bahia-feminino-jogos-outubro",
       "secao": "futebol",
-      "assunto": "Brasileirão feminino",
+      "assunto": "Futebol feminino · Bahia",
       "brasil": true,
-      "publicadaEm": "2026-09-26",
-      "titulo": "São Paulo vira sobre o Corinthians na primeira final do Brasileiro",
-      "resumo": "O São Paulo venceu por 2 a 1 na Neo Química Arena e pode conquistar o título com um empate na volta, marcada para 3 de outubro no Morumbis. Foi a primeira derrota do Corinthians feminino nesse estádio.",
+      "publicadaEm": "2026-09-28",
+      "titulo": "Bahia confirma três jogos do time feminino para a próxima semana",
+      "resumo": "As Mulheres de Aço enfrentam Porto, Barcelona de Ilhéus e Jacobina entre 30 de setembro e 7 de outubro. Duas partidas serão no CT Evaristo de Macedo; o duelo em Ilhéus será no Mário Pessoa.",
+      "fonte": "Esporte Clube Bahia",
+      "idioma": "PT",
+      "url": "https://www.esporteclubebahia.com.br/jogos-agendados/",
+      "verificadaEm": "2026-09-29T11:17:50.000Z"
+    },
+    {
+      "id": "saneamento-planos-governo",
+      "secao": "trending",
+      "assunto": "Políticas públicas · saneamento",
+      "brasil": true,
+      "publicadaEm": "2026-09-29",
+      "titulo": "Estudo aponta pouco espaço para saneamento nos planos de governo estaduais",
+      "resumo": "Levantamento do Instituto Trata Brasil analisou propostas de 62 candidaturas a governos estaduais. Apenas 20% apresentaram planos considerados abrangentes para água e esgoto, e 26% incluíram metas mensuráveis.",
       "fonte": "Agência Brasil",
       "idioma": "PT",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/sao-paulo-vence-o-corinthians-faz-historia-e-fica-perto-do-titulo",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/apenas-20-dos-planos-de-governo-abordam-saneamento-de-forma-abrangente",
+      "verificadaEm": "2026-09-29T11:17:50.000Z"
     },
     {
-      "id": "psg-franca-dembele",
-      "secao": "futebol",
-      "assunto": "PSG · seleções",
-      "brasil": false,
-      "publicadaEm": "2026-09-26",
-      "titulo": "Dembélé é titular na vitória francesa sobre a Turquia",
-      "resumo": "O PSG informou a participação de seus jogadores na estreia da França na Liga das Nações. Dembélé começou a partida e Doué entrou no segundo tempo; os franceses venceram por 1 a 0, com gol de Mbappé.",
-      "fonte": "Paris Saint-Germain",
-      "idioma": "EN",
-      "url": "https://www.psg.fr/en/content/les-bleus-secure-the-win-in-tuerkiye-as-dembele-starts-for-france-uefa-nations-league-psg-international-2026",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
+      "id": "bolsa-familia-nis9",
+      "secao": "trending",
+      "assunto": "Serviço público",
+      "brasil": true,
+      "publicadaEm": "2026-09-29",
+      "titulo": "Bolsa Família paga parcela de setembro a beneficiários com NIS final 9",
+      "resumo": "A Caixa libera nesta terça-feira a parcela para o grupo com Número de Inscrição Social terminado em 9. O calendário regular de setembro segue até o pagamento aos beneficiários de final 0.",
+      "fonte": "Agência Brasil",
+      "idioma": "PT",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/beneficiarios-com-nis-de-final-9-recebem-bolsa-familia-de-setembro",
+      "verificadaEm": "2026-09-29T11:17:50.000Z"
+    },
+    {
+      "id": "temporais-sul-48-mil-casas",
+      "secao": "trending",
+      "assunto": "Clima · Sul do Brasil",
+      "brasil": true,
+      "publicadaEm": "2026-09-29",
+      "titulo": "Temporais afetam 4,8 mil casas em Santa Catarina e no Rio Grande do Sul",
+      "resumo": "Balanço das defesas civis registra danos em moradias nos dois estados. Quatro pessoas ficaram feridas, sem registro de mortes, e equipes seguem acompanhando os municípios atingidos.",
+      "fonte": "Agência Brasil",
+      "idioma": "PT",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-em-santa-catarina-e-rio-grande-do-sul-afetam-48-mil-casas",
+      "verificadaEm": "2026-09-29T11:17:50.000Z"
     },
     {
       "id": "eleicoes-ia-reportagem",
@@ -69,56 +95,17 @@
       "verificadaEm": "2026-09-28T11:55:03.273Z"
     },
     {
-      "id": "bolsa-familia-nis8",
-      "secao": "trending",
-      "assunto": "Serviço público",
-      "brasil": true,
-      "publicadaEm": "2026-09-28",
-      "titulo": "Bolsa Família paga parcela a beneficiários com NIS final 8",
-      "resumo": "A Caixa libera nesta segunda-feira a parcela de setembro para esse grupo. O benefício médio informado é de R$ 678,18; moradores de municípios em situação de emergência já receberam o crédito de forma unificada no dia 17.",
-      "fonte": "Agência Brasil",
-      "idioma": "PT",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/beneficiarios-com-nis-de-final-8-recebem-bolsa-familia-de-setembro",
-      "verificadaEm": "2026-09-28T11:55:03.273Z"
-    },
-    {
-      "id": "inmet-outubro",
-      "secao": "trending",
-      "assunto": "Clima",
-      "brasil": true,
-      "publicadaEm": "2026-09-26",
-      "titulo": "Inmet projeta outubro mais quente e com chuvas desiguais",
-      "resumo": "A previsão climática aponta temperaturas acima da média em grande parte do Brasil. Norte, Nordeste e parte do Centro-Oeste podem ter menos chuva que o habitual, enquanto áreas do Sul e do Sudeste apresentam tendência de volumes maiores.",
-      "fonte": "Agência Brasil",
-      "idioma": "PT",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inmet-calor-acima-da-media-e-chuvas-irregulares-devem-marcar-outubro",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
-    },
-    {
-      "id": "tse-local-voto",
-      "secao": "trending",
-      "assunto": "Eleições · serviço",
-      "brasil": true,
-      "publicadaEm": "2026-09-26",
-      "titulo": "TSE orienta conferir o local de votação antes do primeiro turno",
-      "resumo": "A Justiça Eleitoral alerta que algumas seções mudaram de endereço. A consulta pode ser feita no e-Título ou na área de serviços do TSE, evitando que o eleitor descubra a alteração apenas no dia da votação.",
-      "fonte": "Agência Brasil",
-      "idioma": "PT",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleitor-deve-se-antecipar-na-consulta-local-de-votacao-alerta-tse",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
-    },
-    {
-      "id": "china-eua-ia",
+      "id": "bill-gates-regulacao-ia",
       "secao": "trending",
       "assunto": "Mundo · tecnologia",
       "brasil": false,
-      "publicadaEm": "2026-09-26",
-      "titulo": "China e EUA anunciam diálogo sobre IA e redução de tarifas",
-      "resumo": "Após a visita de Xi Jinping a Washington, os países anunciaram medidas tarifárias envolvendo US$ 30 bilhões em mercadorias. Também concordaram em discutir riscos e benefícios da inteligência artificial e estabelecer um canal de comunicação sobre incidentes ligados à tecnologia.",
+      "publicadaEm": "2026-09-27",
+      "titulo": "Bill Gates defende regras obrigatórias de segurança para inteligência artificial",
+      "resumo": "Em entrevista exibida nos Estados Unidos, o cofundador da Microsoft afirmou que a proteção contra riscos de IA precisa ir além da autorregulação e pediu participação de autoridades na definição de monitoramento e salvaguardas.",
       "fonte": "Reuters · Agência Brasil",
       "idioma": "PT",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/china-e-eua-concordam-em-dialogar-sobre-ia-e-reduzir-tarifas",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/bill-gates-faz-coro-aos-apelos-por-regulamentacao-governamental-da-ia",
+      "verificadaEm": "2026-09-29T11:17:50.000Z"
     },
     {
       "id": "vingadores-venda-28",
@@ -134,43 +121,30 @@
       "verificadaEm": "2026-09-28T11:55:03.273Z"
     },
     {
-      "id": "depois-impacto-rio",
+      "id": "rocky-dublagem-brasileira",
       "secao": "geek",
-      "assunto": "Cinema brasileiro",
+      "assunto": "Cinema · Brasil",
       "brasil": true,
-      "publicadaEm": "2026-09-26",
-      "titulo": "Documentário sobre o Coritiba Crocodiles terá sessão no Festival do Rio",
-      "resumo": "Depois do Impacto acompanha a retomada do time brasileiro de futebol americano após o acidente de 2024. A exibição está confirmada para 2 de outubro, às 19h, no Cinesystem Belas Artes Botafogo, com presença de convidado.",
+      "publicadaEm": "2026-09-28",
+      "titulo": "Filme sobre os bastidores de Rocky anuncia dublagem brasileira",
+      "resumo": "Eu Sou o Rocky terá Luiz Feier Motta e Raphael Rossatto no elenco de vozes. Motta, conhecido por dublar Sylvester Stallone no Brasil, fará outro personagem; Rossatto dará voz ao ator Anthony Ippolito.",
       "fonte": "Omelete",
       "idioma": "PT",
-      "url": "https://www.omelete.com.br/filmes/depois-do-impacto-coritiba-crocodiles-festival-rio-nfl",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
+      "url": "https://www.omelete.com.br/filmes/eu-sou-o-rocky-dubladores-stallone",
+      "verificadaEm": "2026-09-29T11:17:50.000Z"
     },
     {
-      "id": "visionquest-teaser-26",
+      "id": "the-last-of-us-dois-jogos",
       "secao": "geek",
-      "assunto": "Séries",
+      "assunto": "Games",
       "brasil": false,
-      "publicadaEm": "2026-09-26",
-      "titulo": "VisionQuest ganha teaser antes da estreia em outubro",
-      "resumo": "A Marvel divulgou um novo vídeo da minissérie estrelada por Paul Bettany, com foco na missão de Visão. A produção tem estreia anunciada para 14 de outubro no Disney+, sem horário confirmado na fonte consultada.",
+      "publicadaEm": "2026-09-28",
+      "titulo": "Naughty Dog inicia dois novos projetos no universo de The Last of Us",
+      "resumo": "Neil Druckmann afirmou que os dois jogos estão em estágio inicial e ampliarão o cânone além de Part I e Part II. O estúdio ainda não divulgou títulos, plataformas ou datas de lançamento.",
       "fonte": "Omelete",
       "idioma": "PT",
-      "url": "https://www.omelete.com.br/series-tv/visionquest-novo-teaser-trailer-missao-visao",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
-    },
-    {
-      "id": "star-wars-watts",
-      "secao": "geek",
-      "assunto": "Cinema",
-      "brasil": false,
-      "publicadaEm": "2026-09-26",
-      "titulo": "Jon Watts é escolhido para dirigir novo filme de Star Wars",
-      "resumo": "Segundo o The Hollywood Reporter, o diretor trabalhará em um roteiro de Simon Kinberg, apontado como começo de uma nova trilogia. O projeto ainda não tem título, história ou data de estreia divulgados, e sua posição na cronologia não foi confirmada.",
-      "fonte": "Omelete",
-      "idioma": "PT",
-      "url": "https://www.omelete.com.br/filmes/star-wars-x-jon-watts-diretor-confirmado",
-      "verificadaEm": "2026-09-28T11:55:03.273Z"
+      "url": "https://www.omelete.com.br/games/the-last-of-us-neil-druckmann-revela-que-dois-jogos-da-franquia-desenvolvimento",
+      "verificadaEm": "2026-09-29T11:17:50.000Z"
     },
     {
       "id": "salvador-musica-cidade",
@@ -199,6 +173,19 @@
       "verificadaEm": "2026-09-28T11:55:03.273Z"
     },
     {
+      "id": "flora-matos-disco-voador-4",
+      "secao": "musica",
+      "assunto": "Rap · Brasil",
+      "brasil": true,
+      "publicadaEm": "2026-09-28",
+      "titulo": "Flora Matos lança primeiro álbum inédito em cinco anos",
+      "resumo": "FLOWRA FM – Disco Voador 4 reúne 13 faixas e inicia uma divulgação dividida em quatro etapas. A rapper também adiantou que uma nova turnê deve começar em março de 2027.",
+      "fonte": "Billboard Brasil",
+      "idioma": "PT",
+      "url": "https://billboard.com.br/flora-matos-novo-album-detalhes/",
+      "verificadaEm": "2026-09-29T11:17:50.000Z"
+    },
+    {
       "id": "nirvana-vma-2026",
       "secao": "musica",
       "assunto": "Rock",
@@ -210,61 +197,21 @@
       "idioma": "PT",
       "url": "https://billboard.com.br/nirvana-video-vanguard-vma-2026/",
       "verificadaEm": "2026-09-28T11:55:03.273Z"
-    },
-    {
-      "id": "nando-salvador-26",
-      "secao": "musica",
-      "assunto": "Rock · Bahia",
-      "brasil": true,
-      "publicadaEm": "2026-09-26",
-      "titulo": "Nando Reis apresenta nova turnê na Concha Acústica",
-      "resumo": "O show de Pra Você Guardei o Amor reuniu público em Salvador no sábado, com músicas de diferentes fases da carreira. A percussionista baiana Lan Lanh integrou a apresentação, que também incluiu faixas de Uma Estrela Misteriosa.",
-      "fonte": "Alô Alô Bahia",
-      "idioma": "PT",
-      "url": "https://aloalobahia.com/noticias/2026/09/26/nando-reis-lota-concha-acustica-em-noite-de-sucessos-e-romantismo-em-salvador-veja-video/",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
-    },
-    {
-      "id": "tasha-tracie-dvd",
-      "secao": "musica",
-      "assunto": "Rap · Brasil",
-      "brasil": true,
-      "publicadaEm": "2026-09-26",
-      "titulo": "Tasha e Tracie gravam projeto ao vivo em São Paulo",
-      "resumo": "A dupla celebrou um ano de Serena & Venus com uma gravação na Audio em 25 de setembro. A apresentação reuniu banda, participações e cenografia própria, ampliando a proposta do álbum para o palco.",
-      "fonte": "Billboard Brasil",
-      "idioma": "PT",
-      "url": "https://billboard.com.br/tasha-e-tracie-serena-venus-dvd-sao-paulo/",
-      "verificadaEm": "2026-09-27T11:50:17.402Z"
     }
   ],
   "eventos": [
     {
-      "id": "vingadores-prevenda",
-      "titulo": "Doutor Destino · pré-venda Infinity Vision",
-      "secao": "Geek",
-      "brasil": true,
-      "inicio": "2026-09-28",
-      "fim": "2026-09-28",
-      "horario": null,
-      "local": "Salas Infinity Vision · Brasil",
-      "url": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-pre-venda-ingressos-brasil",
-      "fonte": "Omelete",
-      "confirmadoEm": "2026-09-27T11:50:17.402Z"
-    },
-    {
-      "id": "restituicao-ir-setembro",
-      "titulo": "Pagamento do lote residual do IR · setembro",
-      "secao": "Trending",
+      "id": "bahia-feminino-porto",
+      "titulo": "Bahia × Porto · Campeonato Baiano feminino",
+      "secao": "Futebol",
       "brasil": true,
       "inicio": "2026-09-30",
       "fim": "2026-09-30",
-      "horario": null,
-      "local": "Brasil",
-      "observacao": "Crédito previsto ao longo do dia, segundo comunicado da Receita Federal.",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-quarta-feira-23",
-      "fonte": "Receita Federal",
-      "confirmadoEm": "2026-09-23T12:01:08.875Z"
+      "horario": "9h",
+      "local": "CT Evaristo de Macedo · Salvador",
+      "url": "https://www.esporteclubebahia.com.br/jogos-agendados/",
+      "fonte": "Esporte Clube Bahia",
+      "confirmadoEm": "2026-09-29T11:17:50.000Z"
     },
     {
       "id": "batalha-rap-30",
@@ -279,6 +226,20 @@
       "fonte": "Salvador da Bahia · Prefeitura",
       "secao": "Música",
       "confirmadoEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
+      "id": "restituicao-ir-setembro",
+      "titulo": "Pagamento do lote residual do IR · setembro",
+      "secao": "Trending",
+      "brasil": true,
+      "inicio": "2026-09-30",
+      "fim": "2026-09-30",
+      "horario": null,
+      "local": "Brasil",
+      "observacao": "Crédito previsto ao longo do dia, segundo comunicado da Receita Federal.",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-quarta-feira-23",
+      "fonte": "Receita Federal",
+      "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
       "id": "salvador-musica-1out",
@@ -321,6 +282,20 @@
       "confirmadoEm": "2026-09-27T11:50:17.402Z"
     },
     {
+      "id": "bahia-feminino-barcelona",
+      "titulo": "Barcelona de Ilhéus × Bahia · Campeonato Baiano feminino",
+      "secao": "Futebol",
+      "brasil": true,
+      "inicio": "2026-10-03",
+      "fim": "2026-10-03",
+      "horario": null,
+      "local": "Estádio Mário Pessoa · Ilhéus",
+      "observacao": "Data e local confirmados pelo clube; horário não informado na fonte consultada.",
+      "url": "https://www.esporteclubebahia.com.br/jogos-agendados/",
+      "fonte": "Esporte Clube Bahia",
+      "confirmadoEm": "2026-09-29T11:17:50.000Z"
+    },
+    {
       "id": "final-feminino-volta",
       "titulo": "São Paulo × Corinthians · final do Brasileiro feminino",
       "secao": "Futebol",
@@ -345,6 +320,19 @@
       "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/faltam-13-dias-saiba-como-justificar-a-ausencia-nas-eleicoes-2026",
       "fonte": "TSE",
       "confirmadoEm": "2026-09-23T12:01:08.875Z"
+    },
+    {
+      "id": "bahia-feminino-jacobina",
+      "titulo": "Bahia × Jacobina · Campeonato Baiano feminino",
+      "secao": "Futebol",
+      "brasil": true,
+      "inicio": "2026-10-07",
+      "fim": "2026-10-07",
+      "horario": "15h",
+      "local": "CT Evaristo de Macedo · Salvador",
+      "url": "https://www.esporteclubebahia.com.br/jogos-agendados/",
+      "fonte": "Esporte Clube Bahia",
+      "confirmadoEm": "2026-09-29T11:17:50.000Z"
     },
     {
       "id": "nycc",
@@ -457,6 +445,19 @@
       "confirmadoEm": "2026-09-23T12:01:08.875Z"
     },
     {
+      "id": "sangue-novo-2026",
+      "titulo": "Festival Sangue Novo",
+      "secao": "Música",
+      "brasil": true,
+      "inicio": "2026-10-17",
+      "fim": "2026-10-18",
+      "horario": null,
+      "local": "Trapiche Barnabé · Salvador",
+      "url": "https://aloalobahia.com/noticias/2026/09/23/festival-sangue-novo-2026-reune-ceu-rachel-reis-zaynara-e-mais-10-atracoes-em-salvador-veja-line-up/",
+      "fonte": "Alô Alô Bahia",
+      "confirmadoEm": "2026-09-24T12:04:54.259Z"
+    },
+    {
       "id": "pitty-turne-17",
       "titulo": "Pitty · estreia da turnê",
       "brasil": true,
@@ -469,19 +470,6 @@
       "fonte": "Bahia Notícias",
       "secao": "Música",
       "confirmadoEm": "2026-09-23T12:01:08.875Z"
-    },
-    {
-      "id": "sangue-novo-2026",
-      "titulo": "Festival Sangue Novo",
-      "secao": "Música",
-      "brasil": true,
-      "inicio": "2026-10-17",
-      "fim": "2026-10-18",
-      "horario": null,
-      "local": "Trapiche Barnabé · Salvador",
-      "url": "https://aloalobahia.com/noticias/2026/09/23/festival-sangue-novo-2026-reune-ceu-rachel-reis-zaynara-e-mais-10-atracoes-em-salvador-veja-line-up/",
-      "fonte": "Alô Alô Bahia",
-      "confirmadoEm": "2026-09-24T12:04:54.259Z"
     },
     {
       "id": "one-piece-cinemas",
