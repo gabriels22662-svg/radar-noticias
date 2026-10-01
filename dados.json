@@ -1,21 +1,8 @@
 {
-  "edicao": "2026-09-30",
-  "atualizadaEm": "2026-09-30T11:51:02.152Z",
+  "edicao": "2026-10-01",
+  "atualizadaEm": "2026-10-01T11:39:04.591Z",
   "criterioTrending": "Seleção editorial de acontecimentos recentes; não é um ranking medido de redes sociais.",
   "noticias": [
-    {
-      "id": "bahia-olheiros-nordeste",
-      "secao": "futebol",
-      "assunto": "Base · Bahia",
-      "brasil": true,
-      "publicadaEm": "2026-09-28",
-      "titulo": "Bahia amplia observação de jovens atletas pelo Nordeste",
-      "resumo": "O clube informou que mais de 22 mil garotos foram avaliados desde 2023 em ações de captação regional. Nesse período, 152 jogadores foram aprovados para integrar as categorias de base do Esquadrão.",
-      "fonte": "Esporte Clube Bahia",
-      "idioma": "PT",
-      "url": "https://www.esporteclubebahia.com.br/de-olho-no-nordeste/",
-      "verificadaEm": "2026-09-29T11:17:50.000Z"
-    },
     {
       "id": "bahia-porto-cancelado",
       "secao": "futebol",
@@ -43,19 +30,6 @@
       "verificadaEm": "2026-09-30T11:51:02.152Z"
     },
     {
-      "id": "premier-awards-setembro",
-      "secao": "futebol",
-      "assunto": "Premier League",
-      "brasil": false,
-      "publicadaEm": "2026-09-28",
-      "titulo": "Premier League divulga indicados aos prêmios de setembro",
-      "resumo": "A liga apresentou as listas de candidatos a jogador, técnico, gol, defesa e momento criativo do mês. A votação dos torcedores foi encerrada em 28 de setembro, e os vencedores serão anunciados na semana seguinte.",
-      "fonte": "Premier League",
-      "idioma": "EN",
-      "url": "https://www.premierleague.com/en/news/4725625/nominees-for-september-2026s-premier-league-award-winners",
-      "verificadaEm": "2026-09-30T11:51:02.152Z"
-    },
-    {
       "id": "eleicoes-regras-tecnologia-cabine",
       "secao": "trending",
       "assunto": "Eleições · tecnologia",
@@ -66,32 +40,6 @@
       "fonte": "Agência Brasil",
       "idioma": "PT",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/novas-tecnologias-levam-justica-eleitoral-reforcar-regras-de-votacao",
-      "verificadaEm": "2026-09-30T11:51:02.152Z"
-    },
-    {
-      "id": "malha-fina-ir-30",
-      "secao": "trending",
-      "assunto": "Economia · serviço público",
-      "brasil": true,
-      "publicadaEm": "2026-09-30",
-      "titulo": "Receita paga lote da malha fina do Imposto de Renda",
-      "resumo": "O crédito de R$ 1,26 bilhão contempla 412.186 contribuintes e será feito ao longo desta quarta-feira. O lote reúne restituições de declarações deste ano e de exercícios anteriores.",
-      "fonte": "Agência Brasil",
-      "idioma": "PT",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/receita-paga-nesta-quarta-lote-da-malha-fina-do-imposto-de-renda",
-      "verificadaEm": "2026-09-30T11:51:02.152Z"
-    },
-    {
-      "id": "bolsa-familia-nis0",
-      "secao": "trending",
-      "assunto": "Serviço público",
-      "brasil": true,
-      "publicadaEm": "2026-09-30",
-      "titulo": "Bolsa Família conclui calendário regular de setembro com NIS final 0",
-      "resumo": "A Caixa libera a parcela aos beneficiários cujo Número de Inscrição Social termina em 0. O programa atende 19,29 milhões de famílias neste mês, com benefício médio de R$ 678,18.",
-      "fonte": "Agência Brasil",
-      "idioma": "PT",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/beneficiarios-com-nis-de-final-0-recebem-bolsa-familia-de-setembro",
       "verificadaEm": "2026-09-30T11:51:02.152Z"
     },
     {
@@ -106,45 +54,6 @@
       "idioma": "PT",
       "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/chuvas-fortes-continuam-no-sul-e-aumentam-impactos-sobre-moradores",
       "verificadaEm": "2026-09-30T11:51:02.152Z"
-    },
-    {
-      "id": "mercados-globais-titulos-setembro",
-      "secao": "trending",
-      "assunto": "Mundo · mercados",
-      "brasil": false,
-      "publicadaEm": "2026-09-30",
-      "titulo": "Títulos globais encerram setembro sob pressão de juros e energia",
-      "resumo": "Os rendimentos subiram em grandes mercados diante das preocupações com inflação e preços de energia. As bolsas demonstraram maior resistência, enquanto o rendimento do título americano de dez anos chegou a 5,209%.",
-      "fonte": "Reuters",
-      "idioma": "EN",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-30/",
-      "verificadaEm": "2026-09-30T11:51:02.152Z"
-    },
-    {
-      "id": "vingadores-venda-28",
-      "secao": "geek",
-      "assunto": "Cinema · Brasil",
-      "brasil": true,
-      "publicadaEm": "2026-09-28",
-      "titulo": "Pré-venda de Vingadores começa no Brasil com relatos de instabilidade",
-      "resumo": "As vendas para sessões Infinity Vision começaram nesta segunda-feira. Usuários relataram dificuldades para concluir pedidos, mas não há estimativa de quantas pessoas foram afetadas. A Disney ainda deve anunciar a abertura das vendas para salas tradicionais.",
-      "fonte": "Omelete",
-      "idioma": "PT",
-      "url": "https://www.omelete.com.br/filmes/vingadores-doutor-destino-comeca-venda-de-ingressos-usuarios-relatam-problemas",
-      "verificadaEm": "2026-09-28T11:55:03.273Z"
-    },
-    {
-      "id": "rocky-dublagem-brasileira",
-      "secao": "geek",
-      "assunto": "Cinema · Brasil",
-      "brasil": true,
-      "publicadaEm": "2026-09-28",
-      "titulo": "Filme sobre os bastidores de Rocky anuncia dublagem brasileira",
-      "resumo": "Eu Sou o Rocky terá Luiz Feier Motta e Raphael Rossatto no elenco de vozes. Motta, conhecido por dublar Sylvester Stallone no Brasil, fará outro personagem; Rossatto dará voz ao ator Anthony Ippolito.",
-      "fonte": "Omelete",
-      "idioma": "PT",
-      "url": "https://www.omelete.com.br/filmes/eu-sou-o-rocky-dubladores-stallone",
-      "verificadaEm": "2026-09-29T11:17:50.000Z"
     },
     {
       "id": "amor-minha-vida-terceira-temporada",
@@ -186,19 +95,6 @@
       "verificadaEm": "2026-09-30T11:51:02.152Z"
     },
     {
-      "id": "flora-matos-disco-voador-4",
-      "secao": "musica",
-      "assunto": "Rap · Brasil",
-      "brasil": true,
-      "publicadaEm": "2026-09-28",
-      "titulo": "Flora Matos lança primeiro álbum inédito em cinco anos",
-      "resumo": "FLOWRA FM – Disco Voador 4 reúne 13 faixas e inicia uma divulgação dividida em quatro etapas. A rapper também adiantou que uma nova turnê deve começar em março de 2027.",
-      "fonte": "Billboard Brasil",
-      "idioma": "PT",
-      "url": "https://billboard.com.br/flora-matos-novo-album-detalhes/",
-      "verificadaEm": "2026-09-29T11:17:50.000Z"
-    },
-    {
       "id": "ricky-martin-pedro-sampaio-clipe",
       "secao": "musica",
       "assunto": "Pop · funk · Brasil",
@@ -236,37 +132,74 @@
       "idioma": "PT",
       "url": "https://billboard.com.br/k-pop-the-town-2027-surpresas/",
       "verificadaEm": "2026-09-30T11:51:02.152Z"
+    },
+    {
+      "id": "pix-aproximacao-limite",
+      "secao": "trending",
+      "assunto": "Economia · tecnologia",
+      "brasil": true,
+      "publicadaEm": "2026-10-01",
+      "titulo": "Pix por aproximação deixa de ter teto específico de R$ 500",
+      "resumo": "O Banco Central retirou o limite fixo por transação nessa modalidade. Cada cliente poderá pedir ao banco aumento ou redução dos valores, respeitando os limites e mecanismos de segurança definidos para sua conta.",
+      "fonte": "Agência Brasil",
+      "idioma": "PT",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pix-por-aproximacao-deixa-de-ter-teto-de-r-500-partir-desta-quinta",
+      "verificadaEm": "2026-10-01T11:39:04.591Z"
+    },
+    {
+      "id": "orcamento-cidades-saude",
+      "secao": "trending",
+      "assunto": "Orçamento público",
+      "brasil": true,
+      "publicadaEm": "2026-10-01",
+      "titulo": "Liberação de R$ 1,88 bilhão beneficia Cidades e Saúde",
+      "resumo": "O governo atualizou os limites do Orçamento de 2026. O Ministério das Cidades recebeu R$ 1,46 bilhão, a Saúde teve R$ 41,9 milhões liberados e parte dos recursos veio do Novo PAC.",
+      "fonte": "Agência Brasil",
+      "idioma": "PT",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/liberacao-de-r-188-bi-beneficia-ministerios-das-cidades-e-da-saude",
+      "verificadaEm": "2026-10-01T11:39:04.591Z"
+    },
+    {
+      "id": "violencia-politica-decada",
+      "secao": "trending",
+      "assunto": "Direitos humanos · eleições",
+      "brasil": true,
+      "publicadaEm": "2026-10-01",
+      "titulo": "Estudo registra maior violência política pré-eleitoral da década",
+      "resumo": "Levantamento contabilizou 354 casos entre outubro de 2024 e agosto de 2026. Mulheres foram vítimas de 50,6% dos episódios, embora ocupem cerca de 18% das cadeiras legislativas do país.",
+      "fonte": "Agência Brasil",
+      "idioma": "PT",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/violencia-politica-no-periodo-pre-eleitoral-foi-maior-da-decada",
+      "verificadaEm": "2026-10-01T11:39:04.591Z"
+    },
+    {
+      "id": "prime-video-outubro-2026",
+      "secao": "geek",
+      "assunto": "Streaming · Brasil",
+      "brasil": true,
+      "publicadaEm": "2026-09-30",
+      "titulo": "Prime Video anuncia estreias de outubro no Brasil",
+      "resumo": "A programação inclui novas séries, filmes e documentários, entre eles uma produção sobre Marília Mendonça. Carrie estreia em 7 de outubro, e Homem-Aranha: Um Novo Dia chega à loja digital no dia 6.",
+      "fonte": "Omelete",
+      "idioma": "PT",
+      "url": "https://www.omelete.com.br/series-tv/prime-video-estreias-outubro-2026",
+      "verificadaEm": "2026-10-01T11:39:04.591Z"
+    },
+    {
+      "id": "nayeon-alok-parceria",
+      "secao": "musica",
+      "assunto": "Pop · eletrônico · Brasil",
+      "brasil": true,
+      "publicadaEm": "2026-09-30",
+      "titulo": "Nayeon, do TWICE, anuncia parceria musical com Alok",
+      "resumo": "Bye Bye Inhibitions chega às plataformas em 2 de outubro. O DJ brasileiro já havia apresentado a faixa no Rock in Rio, e os dois farão a primeira apresentação conjunta no EDC Korea.",
+      "fonte": "Omelete",
+      "idioma": "PT",
+      "url": "https://www.omelete.com.br/korea/nayeon-twice-anuncia-musica-em-parceria-alok",
+      "verificadaEm": "2026-10-01T11:39:04.591Z"
     }
   ],
   "eventos": [
-    {
-      "id": "restituicao-ir-setembro",
-      "titulo": "Pagamento do lote residual do IR · setembro",
-      "secao": "Trending",
-      "brasil": true,
-      "inicio": "2026-09-30",
-      "fim": "2026-09-30",
-      "horario": null,
-      "local": "Brasil",
-      "observacao": "Crédito previsto ao longo do dia, segundo comunicado da Receita Federal.",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-quarta-feira-23",
-      "fonte": "Receita Federal",
-      "confirmadoEm": "2026-09-23T12:01:08.875Z"
-    },
-    {
-      "id": "batalha-rap-30",
-      "titulo": "Batalha de rap e trap",
-      "brasil": true,
-      "inicio": "2026-09-30",
-      "fim": "2026-09-30",
-      "horario": "14h30",
-      "local": "Cidade da Música da Bahia · Salvador",
-      "observacao": "Atividade de mediação sobre hip-hop com batalha de rimas.",
-      "url": "https://www.salvadordabahia.com/eventos/festival-da-primavera-2026-confira-programacao/",
-      "fonte": "Salvador da Bahia · Prefeitura",
-      "secao": "Música",
-      "confirmadoEm": "2026-09-24T12:04:54.259Z"
-    },
     {
       "id": "salvador-musica-1out",
       "titulo": "Música Ocupa a Cidade",
@@ -293,6 +226,20 @@
       "url": "https://www.omelete.com.br/games/criticas/ace-combat-8-wings-of-theve-eleva-a-franquia-a-novos-ares-review",
       "fonte": "Omelete",
       "confirmadoEm": "2026-09-27T11:50:17.402Z"
+    },
+    {
+      "id": "nayeon-alok-lancamento",
+      "titulo": "Nayeon & Alok · Bye Bye Inhibitions",
+      "secao": "Música",
+      "brasil": true,
+      "inicio": "2026-10-02",
+      "fim": "2026-10-02",
+      "horario": null,
+      "local": "Plataformas digitais",
+      "observacao": "Lançamento confirmado da parceria entre a integrante do TWICE e o DJ brasileiro.",
+      "url": "https://www.omelete.com.br/korea/nayeon-twice-anuncia-musica-em-parceria-alok",
+      "fonte": "Omelete",
+      "confirmadoEm": "2026-10-01T11:39:04.591Z"
     },
     {
       "id": "depois-impacto-sessao",
